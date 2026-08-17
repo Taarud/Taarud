@@ -1,5 +1,5 @@
 DALIA DIPPOLITO DOCUMENTARY — CAPCUT ASSEMBLY REPORT
-Generated: 2026-08-17T21:55:04
+Generated: 2026-08-17T22:26:57
 ========================================================================
 
 INPUTS
@@ -18,9 +18,9 @@ TIMELINE ROWS
 
 PROJECT TIMELINE
   Cold open total      : 14.500s
-  Total project length : 747.047s (12.45 min)
+  Total project length : 746.607s (12.44 min)
   Master VO length     : 659.200s
-  Added by cold open + inserts: 87.847s
+  Added by cold open + inserts: 87.407s
 
 MEDIA MATCHING
   Matched to local source media : 13
@@ -30,8 +30,8 @@ MEDIA MATCHING
 QUALITY CONTROL
   [PASS] Sequential numbering: 108 clips, 001-108, no gaps.
   [PASS] All 108 clips are 1920x1080.
-  [PASS] voiceover_for_timeline.wav duration (747.05s) matches project timeline (747.05s).
-  [PASS] roughcut_preview.mp4 rendered successfully (746.67s, matches project timeline).
+  [PASS] voiceover_for_timeline.wav duration (746.61s) matches project timeline (746.61s).
+  [PASS] roughcut_preview.mp4 rendered successfully (746.30s, matches project timeline).
 
 ASSUMPTIONS / JUDGMENT CALLS
   - 'OVERLAY / OPTIONAL PAUSE FOR SOURCE AUDIO' rows were classified as a real
@@ -51,20 +51,71 @@ ASSUMPTIONS / JUDGMENT CALLS
     (the CSV gives descriptive in/out cues, not exact source timecodes) —
     re-park the in/out points by hand once real footage is dropped in.
 
-  Per-row logged assumptions (16):
+  Per-row logged assumptions (67):
     [Beat 1.1] No duration cue for cold-open shot — defaulted to 4.0s.
     [Beat 2.1] No duration cue for cold-open shot — defaulted to 4.0s.
     [Beat 3.1] No duration cue for cold-open shot — defaulted to 4.0s.
     [Beat 4.1] No duration cue for title card — defaulted to 2.5s.
+    [Beat 5.2] Snapped VO boundary to the nearest word edge (VO Start 6.407->6.407, VO End 12.814->13.001) so narration audio doesn't get cut off mid-word.
+    [Beat 5.3] Snapped VO boundary to the nearest word edge (VO Start 12.814->13.001, VO End 19.221->19.221) so narration audio doesn't get cut off mid-word.
+    [Beat 5.6] Snapped VO boundary to the nearest word edge (VO Start 32.035->32.035, VO End 38.442->38.557) so narration audio doesn't get cut off mid-word.
+    [Beat 5.7] Snapped VO boundary to the nearest word edge (VO Start 38.442->38.557, VO End 44.849->44.849) so narration audio doesn't get cut off mid-word.
+    [Beat 6.2] Snapped VO boundary to the nearest word edge (VO Start 55.76->55.76, VO End 58.992->59.278) so narration audio doesn't get cut off mid-word.
+    [Beat 6.3] Snapped VO boundary to the nearest word edge (VO Start 58.992->59.278, VO End 62.028999999999996->62.028999999999996) so narration audio doesn't get cut off mid-word.
+    [Beat 6.4] Snapped VO boundary to the nearest word edge (VO Start 62.028999999999996->62.028999999999996, VO End 72.352->72.732) so narration audio doesn't get cut off mid-word.
+    [Beat 6.5] Snapped VO boundary to the nearest word edge (VO Start 72.352->72.732, VO End 79.032->79.206) so narration audio doesn't get cut off mid-word.
+    [Beat 6.6] Snapped VO boundary to the nearest word edge (VO Start 79.032->79.206, VO End 84.001->84.001) so narration audio doesn't get cut off mid-word.
+    [Beat 7.1] Snapped VO boundary to the nearest word edge (VO Start 90.497->90.77, VO End 94.765->95.551) so narration audio doesn't get cut off mid-word.
+    [Beat 7.2] Snapped VO boundary to the nearest word edge (VO Start 94.765->95.551, VO End 99.03399999999999->99.067) so narration audio doesn't get cut off mid-word.
+    [Beat 7.3] Snapped VO boundary to the nearest word edge (VO Start 99.03399999999999->99.067, VO End 103.30199999999999->103.30199999999999) so narration audio doesn't get cut off mid-word.
     [Beat 8.1] Audio Use = 'OVERLAY / OPTIONAL PAUSE FOR SOURCE AUDIO' — kept as an overlay (narration plays, VO span used as duration) per the default rule, since this row has real scripted narration across VO Start/End. Source audio could optionally replace it — swap manually in CapCut if desired.
+    [Beat 8.1] Snapped VO boundary to the nearest word edge (VO Start 119.565->119.565, VO End 124.56->124.716) so narration audio doesn't get cut off mid-word.
     [Beat 8.2] Audio Use = 'OVERLAY / OPTIONAL PAUSE FOR SOURCE AUDIO' — kept as an overlay (narration plays, VO span used as duration) per the default rule, since this row has real scripted narration across VO Start/End. Source audio could optionally replace it — swap manually in CapCut if desired.
+    [Beat 10.2] Snapped VO boundary to the nearest word edge (VO Start 156.999->156.999, VO End 159.338->159.63) so narration audio doesn't get cut off mid-word.
+    [Beat 10.3] Snapped VO boundary to the nearest word edge (VO Start 159.338->159.63, VO End 161.677->161.677) so narration audio doesn't get cut off mid-word.
     [Beat 11.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
     [Beat 13.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 14.1] Snapped VO boundary to the nearest word edge (VO Start 200.752->200.752, VO End 203.442->204.015) so narration audio doesn't get cut off mid-word.
+    [Beat 14.2] Snapped VO boundary to the nearest word edge (VO Start 203.442->204.015, VO End 214.736->214.736) so narration audio doesn't get cut off mid-word.
     [Beat 15.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
     [Beat 15.2] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 16.5] Snapped VO boundary to the nearest word edge (VO Start 257.965->257.965, VO End 260.259->260.438) so narration audio doesn't get cut off mid-word.
+    [Beat 16.6] Snapped VO boundary to the nearest word edge (VO Start 260.259->260.438, VO End 268.822->268.822) so narration audio doesn't get cut off mid-word.
     [Beat 17.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 18.1] Snapped VO boundary to the nearest word edge (VO Start 263.428->263.844, VO End 272.677->272.677) so narration audio doesn't get cut off mid-word.
+    [Beat 18.2] Snapped VO boundary to the nearest word edge (VO Start 272.677->272.677, VO End 281.926->281.992) so narration audio doesn't get cut off mid-word.
+    [Beat 18.3] Snapped VO boundary to the nearest word edge (VO Start 281.926->281.992, VO End 291.175->291.328) so narration audio doesn't get cut off mid-word.
+    [Beat 18.4] Snapped VO boundary to the nearest word edge (VO Start 291.175->291.328, VO End 300.424->300.424) so narration audio doesn't get cut off mid-word.
+    [Beat 19.1] Snapped VO boundary to the nearest word edge (VO Start 296.493->296.493, VO End 299.10699999999997->299.246) so narration audio doesn't get cut off mid-word.
+    [Beat 19.3] Snapped VO boundary to the nearest word edge (VO Start 301.721->301.808, VO End 304.334->304.79) so narration audio doesn't get cut off mid-word.
+    [Beat 19.4] Snapped VO boundary to the nearest word edge (VO Start 304.334->304.79, VO End 306.948->306.948) so narration audio doesn't get cut off mid-word.
+    [Beat 23.1] Snapped VO boundary to the nearest word edge (VO Start 341.426->341.426, VO End 343.887->343.928) so narration audio doesn't get cut off mid-word.
     [Beat 24.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 28.1] Snapped VO boundary to the nearest word edge (VO Start 405.236->405.236, VO End 411.177->411.65) so narration audio doesn't get cut off mid-word.
+    [Beat 28.2] Snapped VO boundary to the nearest word edge (VO Start 411.177->411.65, VO End 417.118->417.118) so narration audio doesn't get cut off mid-word.
+    [Beat 29.2] Snapped VO boundary to the nearest word edge (VO Start 444.21->444.21, VO End 448.295->448.393) so narration audio doesn't get cut off mid-word.
+    [Beat 29.3] Snapped VO boundary to the nearest word edge (VO Start 448.295->448.393, VO End 452.38->452.751) so narration audio doesn't get cut off mid-word.
+    [Beat 29.4] Snapped VO boundary to the nearest word edge (VO Start 452.38->452.751, VO End 456.46500000000003->456.512) so narration audio doesn't get cut off mid-word.
+    [Beat 29.5] Snapped VO boundary to the nearest word edge (VO Start 456.46500000000003->456.512, VO End 471.856->471.856) so narration audio doesn't get cut off mid-word.
+    [Beat 29.6] Snapped VO boundary to the nearest word edge (VO Start 471.856->471.856, VO End 475.94100000000003->476.413) so narration audio doesn't get cut off mid-word.
+    [Beat 29.7] Snapped VO boundary to the nearest word edge (VO Start 475.94100000000003->476.413, VO End 480.585->480.585) so narration audio doesn't get cut off mid-word.
+    [Beat 31.3] Snapped VO boundary to the nearest word edge (VO Start 490.682->490.682, VO End 507.484->507.618) so narration audio doesn't get cut off mid-word.
+    [Beat 31.4] Snapped VO boundary to the nearest word edge (VO Start 507.484->507.618, VO End 511.488->511.488) so narration audio doesn't get cut off mid-word.
+    [Beat 31.5] Snapped VO boundary to the nearest word edge (VO Start 511.488->511.488, VO End 525.1->525.499) so narration audio doesn't get cut off mid-word.
+    [Beat 31.6] Snapped VO boundary to the nearest word edge (VO Start 525.1->525.499, VO End 533.907->533.907) so narration audio doesn't get cut off mid-word.
+    [Beat 32.1] Snapped VO boundary to the nearest word edge (VO Start 566.297->566.297, VO End 569.977->570.209) so narration audio doesn't get cut off mid-word.
+    [Beat 32.2] Snapped VO boundary to the nearest word edge (VO Start 569.977->570.209, VO End 573.657->573.87) so narration audio doesn't get cut off mid-word.
+    [Beat 32.3] Snapped VO boundary to the nearest word edge (VO Start 573.657->573.87, VO End 577.338->577.541) so narration audio doesn't get cut off mid-word.
+    [Beat 32.4] Snapped VO boundary to the nearest word edge (VO Start 577.338->577.541, VO End 581.018->581.018) so narration audio doesn't get cut off mid-word.
+    [Beat 33.3] Snapped VO boundary to the nearest word edge (VO Start 592.976->592.976, VO End 596.767->597.065) so narration audio doesn't get cut off mid-word.
+    [Beat 33.4] Snapped VO boundary to the nearest word edge (VO Start 596.767->597.065, VO End 600.558->600.558) so narration audio doesn't get cut off mid-word.
     [Beat 34.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 35.1] Snapped VO boundary to the nearest word edge (VO Start 601.613->601.613, VO End 607.129->607.444) so narration audio doesn't get cut off mid-word.
+    [Beat 35.2] Snapped VO boundary to the nearest word edge (VO Start 607.129->607.444, VO End 612.004->612.004) so narration audio doesn't get cut off mid-word.
+    [Beat 36.1] Snapped VO boundary to the nearest word edge (VO Start 639.914->639.914, VO End 643.154->643.326) so narration audio doesn't get cut off mid-word.
+    [Beat 36.2] Snapped VO boundary to the nearest word edge (VO Start 643.154->643.326, VO End 647.893->647.893) so narration audio doesn't get cut off mid-word.
+    [Beat 36.3] Snapped VO boundary to the nearest word edge (VO Start 647.893->647.893, VO End 651.554->651.654) so narration audio doesn't get cut off mid-word.
+    [Beat 36.4] Snapped VO boundary to the nearest word edge (VO Start 651.554->651.654, VO End 658.683->658.683) so narration audio doesn't get cut off mid-word.
     [Beat 37.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
     [Beat 37.2] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
     [project timeline] Positioned every primary row sequentially (each starts where the previous ends) rather than at its absolute VO-anchored position, because a few beat boundaries in the source CSV have overlapping VO Start/End values. Each row's own duration is unchanged (VO End-VO Start for overlays, parsed/default target length for inserts and cold opens) — this only affects where the clip is placed on the project timeline. See vo_start/vo_end/vo_anchor columns in timeline_manifest.csv for the original VO-time reference.

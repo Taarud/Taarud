@@ -131,7 +131,7 @@ def resolve_media(row, inventory):
     return False, (match["rel_path"] if match else None), confidence, why
 
 
-def compute_duration(row, category):
+def compute_duration(row, category, vo_start, vo_end):
     cue = row.get("Exact Source Cue / What to Pull") or ""
     on_screen = row.get("What Goes On Screen") or ""
     note = row.get("Editor Note") or ""
@@ -150,8 +150,7 @@ def compute_duration(row, category):
         return 4.0, "default cold-open shot duration (no cue found)"
 
     if category == "OVERLAY":
-        vo_start = common.parse_vo_time(row.get("VO Start"))
-        vo_end = common.parse_vo_time(row.get("VO End"))
+        # vo_start/vo_end are already snapped to word boundaries by the caller.
         if vo_start is not None and vo_end is not None and (vo_end - vo_start) > 0.05:
             return round(vo_end - vo_start, 3), "VO End - VO Start"
         hint, basis = common.parse_duration_hint(cue, on_screen)
@@ -201,11 +200,25 @@ def main():
         if not primary:
             continue
 
-        duration, duration_basis = compute_duration(row, category)
-        vo_start = common.parse_vo_time(row.get("VO Start"))
-        vo_end = common.parse_vo_time(row.get("VO End"))
+        # Snap VO timestamps to actual word edges before computing duration —
+        # the coverage CSV's own alignment pass isn't always word-exact, and
+        # hard-cutting audio at an imprecise boundary chops off the tail of
+        # a word. See common.snap_to_word_boundary for details.
+        raw_vo_start = common.parse_vo_time(row.get("VO Start"))
+        raw_vo_end = common.parse_vo_time(row.get("VO End"))
+        vo_start = common.snap_to_word_boundary(raw_vo_start)
+        vo_end = common.snap_to_word_boundary(raw_vo_end)
+        if vo_start != raw_vo_start or vo_end != raw_vo_end:
+            common.log_assumption(
+                f"Beat {beat_order}.{visual_number}",
+                f"Snapped VO boundary to the nearest word edge (VO Start "
+                f"{raw_vo_start}->{vo_start}, VO End {raw_vo_end}->{vo_end}) so "
+                f"narration audio doesn't get cut off mid-word.",
+            )
         vo_anchor_raw = (row.get("VO Anchor Sec") or "").strip()
-        vo_anchor = float(vo_anchor_raw) if vo_anchor_raw else None
+        vo_anchor = common.snap_to_word_boundary(float(vo_anchor_raw)) if vo_anchor_raw else None
+
+        duration, duration_basis = compute_duration(row, category, vo_start, vo_end)
 
         uses_source_audio = category == "INSERT"
 

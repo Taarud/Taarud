@@ -3,6 +3,7 @@
 All paths are resolved relative to the project root (the parent of this
 05_scripts/ folder), so the scripts can be run from any working directory.
 """
+import bisect
 import csv
 import difflib
 import json
@@ -165,6 +166,41 @@ def read_timeline_rows():
 def read_word_timing_rows():
     with open(WORD_TIMING_CSV, newline="", encoding="utf-8-sig") as f:
         return list(csv.DictReader(f))
+
+
+_WORD_SPANS = None
+
+
+def _word_spans():
+    global _WORD_SPANS
+    if _WORD_SPANS is None:
+        rows = read_word_timing_rows()
+        _WORD_SPANS = sorted((float(r["StartSec"]), float(r["EndSec"])) for r in rows)
+    return _WORD_SPANS
+
+
+def snap_to_word_boundary(t, tolerance=0.03):
+    """The coverage CSV's per-row VO Start/End timestamps come from an
+    automated alignment pass (see the 'Alignment' column's confidence
+    scores) and aren't always exactly on a word edge. Hard-cutting audio at
+    an imprecise boundary chops off the tail of whatever word it lands
+    inside. This snaps a raw timestamp forward to the end of the word it
+    falls inside (if any), so extraction always lands in the natural gap
+    between words instead of mid-syllable. It's a pure function of t, so a
+    boundary shared by two adjacent rows (row N's VO End == row N+1's VO
+    Start) still snaps identically for both — no gap or overlap introduced.
+    A timestamp that already lands in a gap between words (or right at a
+    word's edge, within `tolerance`) is returned unchanged."""
+    if t is None:
+        return t
+    spans = _word_spans()
+    starts = [s for s, _ in spans]
+    i = bisect.bisect_right(starts, t) - 1
+    if 0 <= i < len(spans):
+        start, end = spans[i]
+        if start + tolerance < t < end - tolerance:
+            return end
+    return t
 
 
 # --- ffprobe / ffmpeg helpers ------------------------------------------------

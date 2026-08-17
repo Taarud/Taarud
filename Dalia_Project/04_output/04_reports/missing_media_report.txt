@@ -1,5 +1,5 @@
 MISSING MEDIA REPORT
-Generated: 2026-08-17T21:55:04
+Generated: 2026-08-17T22:26:57
 ========================================================================
 
 84 row(s) had no local file in 02_source_media/ and were rendered
@@ -34,13 +34,13 @@ Clip 005.mp4 — Beat 5.1 (Opening)
 Clip 006.mp4 — Beat 5.2 (Opening)
   Needed   : Court TV — The 'COPS' Tape
   On screen: Crime-scene tape + officer interaction
-  Duration : 6.41s (VO End - VO Start)
+  Duration : 6.59s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 007.mp4 — Beat 5.3 (Opening)
   Needed   : Dalia learns husband was "murdered"
   On screen: Dalia's emotional reaction
-  Duration : 6.41s (VO End - VO Start)
+  Duration : 6.22s (VO End - VO Start)
   Match note: Requires manual rights/provenance review before use (see 01_input/download_list.csv notes) — not auto-downloaded.
 
 Clip 008.mp4 — Beat 5.4 (Opening)
@@ -58,7 +58,7 @@ Clip 009.mp4 — Beat 5.5 (Opening)
 Clip 010.mp4 — Beat 5.6 (Opening)
   Needed   : Dalia police interview — full
   On screen: Interrogation-room establishing shot
-  Duration : 6.41s (VO End - VO Start)
+  Duration : 6.52s (VO End - VO Start)
   Match note: Requires manual rights/provenance review before use (see 01_input/download_list.csv notes) — not auto-downloaded.
 
 Clip 012.mp4 — Beat 6.1 (Dalia and Michael)
@@ -70,43 +70,43 @@ Clip 012.mp4 — Beat 6.1 (Dalia and Michael)
 Clip 013.mp4 — Beat 6.2 (Dalia and Michael)
   Needed   : Michael Dippolito questioned by police — full
   On screen: Michael police interview
-  Duration : 3.23s (VO End - VO Start)
+  Duration : 3.52s (VO End - VO Start)
   Match note: Requires manual rights/provenance review before use (see 01_input/download_list.csv notes) — not auto-downloaded.
 
 Clip 014.mp4 — Beat 6.3 (Dalia and Michael)
   Needed   : Court TV courtroom still
   On screen: Dalia courtroom still
-  Duration : 3.04s (VO End - VO Start)
+  Duration : 2.75s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 016.mp4 — Beat 6.5 (Dalia and Michael)
   Needed   : ABC — case background / prison & appeals
   On screen: ABC case page for couple/court photos
-  Duration : 6.68s (VO End - VO Start)
+  Duration : 6.47s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 017.mp4 — Beat 6.6 (Dalia and Michael)
   Needed   : Michael Dippolito: I Wish We Never Met
   On screen: Michael later saying he wishes they never met
-  Duration : 4.97s (VO End - VO Start)
+  Duration : 4.79s (VO End - VO Start)
   Match note: Third-party video — needs manual review before use.
 
 Clip 019.mp4 — Beat 7.1 (The Informant)
   Needed   : Court TV — Mohamed Shihadeh testimony
   On screen: Mohamed Shihadeh on witness stand
-  Duration : 4.27s (VO End - VO Start)
+  Duration : 4.78s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 020.mp4 — Beat 7.2 (The Informant)
   Needed   : Court TV — Dalia Dippolito Tapes
   On screen: Dalia/Shihadeh recorded conversations presented at trial
-  Duration : 4.27s (VO End - VO Start)
+  Duration : 3.52s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 021.mp4 — Beat 7.3 (The Informant)
   Needed   : ABC — hidden cameras / reality-TV defense background
   On screen: ABC hidden-camera case background
-  Duration : 4.27s (VO End - VO Start)
+  Duration : 4.24s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 022.mp4 — Beat 7.4 (The Informant)
@@ -118,7 +118,7 @@ Clip 022.mp4 — Beat 7.4 (The Informant)
 Clip 024.mp4 — Beat 8.1 (The Informant)
   Needed   : Court TV — Dalia Dippolito Tapes
   On screen: Recorded Dalia/Shihadeh exchange establishing target/intent
-  Duration : 5.00s (VO End - VO Start)
+  Duration : 5.15s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 025.mp4 — Beat 9.1 (The Informant)
@@ -136,13 +136,13 @@ Clip 028.mp4 — Beat 10.1 (The Hitman)
 Clip 029.mp4 — Beat 10.2 (The Hitman)
   Needed   : ABC — undercover murder-for-hire reporting
   On screen: ABC undercover case page
-  Duration : 2.34s (VO End - VO Start)
+  Duration : 2.63s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 030.mp4 — Beat 10.3 (The Hitman)
   Needed   : Full undercover hitman meeting
   On screen: Raw undercover-car establishing shot
-  Duration : 2.34s (VO End - VO Start)
+  Duration : 2.05s (VO End - VO Start)
   Match note: Requires manual rights/provenance review before use (see 01_input/download_list.csv notes) — not auto-downloaded.
 
 Clip 032.mp4 — Beat 11.1 (Undercover Meeting)
@@ -178,7 +178,7 @@ Clip 036.mp4 — Beat 13.1 (Undercover Meeting)
 Clip 037.mp4 — Beat 14.1 (Undercover Meeting)
   Needed   : Full undercover hitman meeting
   On screen: Undercover meeting ending
-  Duration : 2.69s (VO End - VO Start)
+  Duration : 3.26s (VO End - VO Start)
   Match note: Requires manual rights/provenance review before use (see 01_input/download_list.csv notes) — not auto-downloaded.
 
 Clip 039.mp4 — Beat 14.3 (Undercover Meeting)
@@ -226,31 +226,31 @@ Clip 048.mp4 — Beat 17.1 (The Fake Death)
 Clip 049.mp4 — Beat 18.1 (The Fake Death)
   Needed   : Boynton Beach Police arrest / fake scene + arrest
   On screen: Dalia still reacting at scene
-  Duration : 9.25s (VO End - VO Start)
+  Duration : 8.83s (VO End - VO Start)
   Match note: Official public-record video not yet downloaded — this sandboxed session couldn't reach YouTube (network policy blocks it: yt-dlp got a 403 on the proxy tunnel). Run 07_CLAUDE_TOOLS/DOWNLOAD_OFFICIAL_MEDIA.bat (or `python3 download_public_record_media.py`) on a machine with internet access, then drop the result into 02_source_media/pack_media/04_DOWNLOADED_PUBLIC_RECORD_VIDEO/ and re-run the pipeline.
 
 Clip 050.mp4 — Beat 18.2 (The Fake Death)
   Needed   : Boynton Beach Police arrest / fake scene + arrest
   On screen: Police escort / transition toward station
-  Duration : 9.25s (VO End - VO Start)
+  Duration : 9.31s (VO End - VO Start)
   Match note: Official public-record video not yet downloaded — this sandboxed session couldn't reach YouTube (network policy blocks it: yt-dlp got a 403 on the proxy tunnel). Run 07_CLAUDE_TOOLS/DOWNLOAD_OFFICIAL_MEDIA.bat (or `python3 download_public_record_media.py`) on a machine with internet access, then drop the result into 02_source_media/pack_media/04_DOWNLOADED_PUBLIC_RECORD_VIDEO/ and re-run the pipeline.
 
 Clip 051.mp4 — Beat 18.3 (The Fake Death)
   Needed   : Dalia police interview — full
   On screen: Interrogation room establishing shot
-  Duration : 9.25s (VO End - VO Start)
+  Duration : 9.34s (VO End - VO Start)
   Match note: Requires manual rights/provenance review before use (see 01_input/download_list.csv notes) — not auto-downloaded.
 
 Clip 053.mp4 — Beat 19.1 (Interrogation Transition)
   Needed   : Dalia police interview — full
   On screen: Police interview opening / Dalia seated
-  Duration : 2.61s (VO End - VO Start)
+  Duration : 2.75s (VO End - VO Start)
   Match note: Requires manual rights/provenance review before use (see 01_input/download_list.csv notes) — not auto-downloaded.
 
 Clip 054.mp4 — Beat 19.3 (Interrogation Transition)
   Needed   : Court TV — Dalia Dippolito Interview
   On screen: Court TV interview presentation
-  Duration : 2.61s (VO End - VO Start)
+  Duration : 2.98s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 056.mp4 — Beat 20.1 (The Interrogation)
@@ -286,7 +286,7 @@ Clip 061.mp4 — Beat 22.1 (The Interrogation)
 Clip 062.mp4 — Beat 23.1 (The Interrogation)
   Needed   : Dalia police interview — full
   On screen: Moments just before Widy enters
-  Duration : 2.46s (VO End - VO Start)
+  Duration : 2.50s (VO End - VO Start)
   Match note: Requires manual rights/provenance review before use (see 01_input/download_list.csv notes) — not auto-downloaded.
 
 Clip 063.mp4 — Beat 24.1 (The Reveal)
@@ -346,13 +346,13 @@ Clip 071.mp4 — Beat 27.1 (The Jail Call)
 Clip 072.mp4 — Beat 28.1 (The Jail Call)
   Needed   : Court TV — Complete 2011 trial archive
   On screen: Courthouse/trial establishing shot
-  Duration : 5.94s (VO End - VO Start)
+  Duration : 6.41s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 073.mp4 — Beat 28.2 (The Jail Call)
   Needed   : Court TV — Prosecution opening statement
   On screen: Prosecution opening / courtroom
-  Duration : 5.94s (VO End - VO Start)
+  Duration : 5.47s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 074.mp4 — Beat 29.1 (The Defense)
@@ -364,37 +364,37 @@ Clip 074.mp4 — Beat 29.1 (The Defense)
 Clip 075.mp4 — Beat 29.2 (The Defense)
   Needed   : Dalia testifies she was acting
   On screen: Dalia in courtroom / testimony
-  Duration : 4.08s (VO End - VO Start)
+  Duration : 4.18s (VO End - VO Start)
   Match note: Third-party video — needs manual review before use.
 
 Clip 076.mp4 — Beat 29.3 (The Defense)
   Needed   : Court TV — Defense closing argument
   On screen: Defense closing argument
-  Duration : 4.08s (VO End - VO Start)
+  Duration : 4.36s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 077.mp4 — Beat 29.4 (The Defense)
   Needed   : ABC — hidden cameras / reality-TV defense background
   On screen: ABC hidden-camera / reality-TV defense article
-  Duration : 4.08s (VO End - VO Start)
+  Duration : 3.76s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 078.mp4 — Beat 29.5 (The Defense)
   Needed   : ABC — police testimony about sting
   On screen: ABC report on police/COPS criticism
-  Duration : 15.39s (VO End - VO Start)
+  Duration : 15.34s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 079.mp4 — Beat 29.6 (The Defense)
   Needed   : Court TV — Michael Dippolito testimony
   On screen: Michael testimony
-  Duration : 4.08s (VO End - VO Start)
+  Duration : 4.56s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 080.mp4 — Beat 29.7 (The Defense)
   Needed   : Court TV courtroom still
   On screen: Court TV courtroom still
-  Duration : 4.64s (VO End - VO Start)
+  Duration : 4.17s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 081.mp4 — Beat 30.1 (The Defense)
@@ -412,43 +412,43 @@ Clip 082.mp4 — Beat 31.1 (Convicted, Then Overturned)
 Clip 083.mp4 — Beat 31.3 (Convicted, Then Overturned)
   Needed   : Judge explains 20-year sentence (2011)
   On screen: Judge explains 20-year sentence
-  Duration : 16.80s (VO End - VO Start)
+  Duration : 16.94s (VO End - VO Start)
   Match note: Third-party video — needs manual review before use.
 
 Clip 084.mp4 — Beat 31.4 (Convicted, Then Overturned)
   Needed   : Court TV — 2011 sentencing
   On screen: Court TV sentencing
-  Duration : 4.00s (VO End - VO Start)
+  Duration : 3.87s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 086.mp4 — Beat 31.6 (Convicted, Then Overturned)
   Needed   : Web source
   On screen: WPTV article on appeal / case dismissal attempt
-  Duration : 8.81s (VO End - VO Start)
+  Duration : 8.41s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 088.mp4 — Beat 32.1 (Trial Two)
   Needed   : Mistrial declared in Dippolito retrial
   On screen: 2016 mistrial report / courtroom
-  Duration : 3.68s (VO End - VO Start)
+  Duration : 3.91s (VO End - VO Start)
   Match note: Third-party video — needs manual review before use.
 
 Clip 089.mp4 — Beat 32.2 (Trial Two)
   Needed   : ABC — 2016 mistrial / 3–3 split
   On screen: ABC 3–3 jury split article
-  Duration : 3.68s (VO End - VO Start)
+  Duration : 3.66s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 090.mp4 — Beat 32.3 (Trial Two)
   Needed   : Michael reacts to Dalia mistrial
   On screen: Michael reaction after mistrial
-  Duration : 3.68s (VO End - VO Start)
+  Duration : 3.67s (VO End - VO Start)
   Match note: Third-party video — needs manual review before use.
 
 Clip 091.mp4 — Beat 32.4 (Trial Two)
   Needed   : Courthouse News — 2016 mistrial
   On screen: Courthouse News mistrial report
-  Duration : 3.68s (VO End - VO Start)
+  Duration : 3.48s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 093.mp4 — Beat 33.1 (Trial Three)
@@ -466,7 +466,7 @@ Clip 094.mp4 — Beat 33.2 (Trial Three)
 Clip 095.mp4 — Beat 33.3 (Trial Three)
   Needed   : NBC Miami — third-trial background
   On screen: NBC Miami third-trial background
-  Duration : 3.79s (VO End - VO Start)
+  Duration : 4.09s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 097.mp4 — Beat 34.1 (Trial Three)
@@ -478,31 +478,31 @@ Clip 097.mp4 — Beat 34.1 (Trial Three)
 Clip 098.mp4 — Beat 35.1 (Sentencing)
   Needed   : Dalia Dippolito sentenced to 16 years
   On screen: 2017 sentencing — Dalia/judge
-  Duration : 5.52s (VO End - VO Start)
+  Duration : 5.83s (VO End - VO Start)
   Match note: Third-party video — needs manual review before use.
 
 Clip 099.mp4 — Beat 35.2 (Sentencing)
   Needed   : Dalia Dippolito sentenced to 16 years — alternate
   On screen: Alternate sentencing angle/package
-  Duration : 4.88s (VO End - VO Start)
+  Duration : 4.56s (VO End - VO Start)
   Match note: Third-party video — needs manual review before use.
 
 Clip 103.mp4 — Beat 36.1 (Ending)
   Needed   : Full undercover hitman meeting
   On screen: Return to undercover car, earlier neutral section
-  Duration : 3.24s (VO End - VO Start)
+  Duration : 3.41s (VO End - VO Start)
   Match note: Requires manual rights/provenance review before use (see 01_input/download_list.csv notes) — not auto-downloaded.
 
 Clip 104.mp4 — Beat 36.2 (Ending)
   Needed   : Court TV — Dalia Dippolito Undercover Meeting
   On screen: Court TV undercover meeting alternate
-  Duration : 4.74s (VO End - VO Start)
+  Duration : 4.57s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 106.mp4 — Beat 36.4 (Ending)
   Needed   : Court TV — Dalia tapes replay
   On screen: Tape replay / trial evidence
-  Duration : 7.13s (VO End - VO Start)
+  Duration : 7.03s (VO End - VO Start)
   Match note: Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference only. Replace with your own licensed/fair-use clip or a public-record equivalent, then drop it into 02_source_media/ and re-run the pipeline.
 
 Clip 107.mp4 — Beat 37.1 (Ending)

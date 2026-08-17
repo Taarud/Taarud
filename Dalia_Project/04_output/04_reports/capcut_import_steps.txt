@@ -1,5 +1,5 @@
 HOW TO IMPORT THIS INTO CAPCUT
-Generated: 2026-08-17T21:55:04
+Generated: 2026-08-17T22:26:57
 ========================================================================
 
 1. Open CapCut and start a new project (1920x1080, 30fps).
