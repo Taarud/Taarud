@@ -79,6 +79,58 @@ def find_match(row, inventory):
     return None, 0.0, "no plausible candidate in inventory"
 
 
+# Media-pack MEDIA STATUS handling. When the CSV was produced by the
+# Claude media pack (has a MEDIA STATUS / LOCAL MEDIA FILE column), those
+# columns are authoritative and we skip fuzzy matching entirely — the pack
+# already did the rights-aware triage.
+MISSING_STATUS_REASONS = {
+    "DOWNLOAD_ON_USER_MACHINE_OFFICIAL": (
+        "Official public-record video not yet downloaded — this sandboxed session "
+        "couldn't reach YouTube (network policy blocks it: yt-dlp got a 403 on the "
+        "proxy tunnel). Run 07_CLAUDE_TOOLS/DOWNLOAD_OFFICIAL_MEDIA.bat (or "
+        "`python3 download_public_record_media.py`) on a machine with internet "
+        "access, then drop the result into 02_source_media/pack_media/"
+        "04_DOWNLOADED_PUBLIC_RECORD_VIDEO/ and re-run the pipeline."
+    ),
+    "REVIEW_PUBLIC_RECORD_COPY": (
+        "Requires manual rights/provenance review before use (see "
+        "01_input/download_list.csv notes) — not auto-downloaded."
+    ),
+    "COPYRIGHTED_REFERENCE_ONLY": (
+        "Copyrighted broadcaster material (Court TV/ABC/Law&Crime/etc.) — reference "
+        "only. Replace with your own licensed/fair-use clip or a public-record "
+        "equivalent, then drop it into 02_source_media/ and re-run the pipeline."
+    ),
+    "THIRD_PARTY_VIDEO_REVIEW": "Third-party video — needs manual review before use.",
+}
+
+
+def resolve_media(row, inventory):
+    """Returns (is_graphic, chosen_rel_path_or_None, confidence, why)."""
+    status = (row.get("MEDIA STATUS") or "").strip()
+    if status:  # media-pack CSV — MEDIA STATUS/LOCAL MEDIA FILE are authoritative
+        if status == "CREATE_ORIGINAL":
+            return True, None, 1.0, "Original/editor-created graphic (CREATE_ORIGINAL)."
+
+        local_file = row.get("LOCAL MEDIA FILE") or ""
+        resolved = common.resolve_pack_media_path(local_file)
+        if resolved:
+            rel = str(resolved.relative_to(common.SOURCE_MEDIA_DIR))
+            tag = "INCLUDED_ACTUAL" if status == "INCLUDED_ACTUAL" else status
+            return False, rel, 1.0, f"Included in the media pack ({tag})."
+
+        reason = MISSING_STATUS_REASONS.get(
+            status, f"MEDIA STATUS = '{status}' with no resolvable local file."
+        )
+        return False, None, 0.0, reason
+
+    # No MEDIA STATUS column (plain/original CSV) — fall back to fuzzy matching.
+    if is_graphic_row(row):
+        return True, None, 1.0, "Original/editor-created graphic — generated directly, no source media needed."
+    match, confidence, why = find_match(row, inventory)
+    return False, (match["rel_path"] if match else None), confidence, why
+
+
 def compute_duration(row, category):
     cue = row.get("Exact Source Cue / What to Pull") or ""
     on_screen = row.get("What Goes On Screen") or ""
@@ -132,13 +184,7 @@ def main():
         visual_number = row.get("Visual #")
         category = common.audio_use_category(row)
         primary = is_primary_row = common.is_primary_row(row)
-        graphic = is_graphic_row(row)
-
-        if graphic:
-            chosen_file, confidence, why = None, 1.0, "Original/editor-created graphic — generated directly, no source media needed."
-        else:
-            match, confidence, why = find_match(row, inventory)
-            chosen_file = match["rel_path"] if match else None
+        graphic, chosen_file, confidence, why = resolve_media(row, inventory)
 
         media_map_rows.append({
             "beat_order": beat_order,

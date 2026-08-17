@@ -1,9 +1,9 @@
 DALIA DIPPOLITO DOCUMENTARY — CAPCUT ASSEMBLY REPORT
-Generated: 2026-08-17T21:22:32
+Generated: 2026-08-17T21:55:04
 ========================================================================
 
 INPUTS
-  Timeline CSV : CodeCopper_Dalia_Visual_Coverage_AUDIO_ALIGNED.csv
+  Timeline CSV : CodeCopper_Dalia_CLAUDE_MEDIA_READY.csv
   Word timing  : Dalia_ElevenLabs_Word_Timing.csv
   Master VO    : Dalia_ElevenLabs_Master_VO.mp3
   Master VO duration: 659.20s
@@ -23,15 +23,15 @@ PROJECT TIMELINE
   Added by cold open + inserts: 87.847s
 
 MEDIA MATCHING
-  Matched to local source media : 0
-  Auto-generated original graphics: 12
-  Missing (placeholder slate)   : 96
+  Matched to local source media : 13
+  Auto-generated original graphics: 11
+  Missing (placeholder slate)   : 84
 
 QUALITY CONTROL
   [PASS] Sequential numbering: 108 clips, 001-108, no gaps.
   [PASS] All 108 clips are 1920x1080.
   [PASS] voiceover_for_timeline.wav duration (747.05s) matches project timeline (747.05s).
-  [PASS] roughcut_preview.mp4 rendered successfully (746.63s, matches project timeline).
+  [PASS] roughcut_preview.mp4 rendered successfully (746.67s, matches project timeline).
 
 ASSUMPTIONS / JUDGMENT CALLS
   - 'OVERLAY / OPTIONAL PAUSE FOR SOURCE AUDIO' rows were classified as a real

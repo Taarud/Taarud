@@ -13,7 +13,9 @@
 !04_output/02_audio/.gitkeep
 !04_output/03_preview/.gitkeep
 
-# Drop-in source media the user supplies locally — not checked in.
+# Drop-in source media the user supplies locally — not checked in by default
+# (02_source_media/pack_media/ is NOT covered by this rule: it's the vetted,
+# rights-cleared media from the user's Claude Media Pack and is tracked).
 02_source_media/images/*
 02_source_media/videos/*
 02_source_media/documents/*

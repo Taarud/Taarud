@@ -21,9 +21,13 @@ PREVIEW_DIR = OUTPUT_DIR / "03_preview"
 REPORTS_DIR = OUTPUT_DIR / "04_reports"
 CAPTIONS_DIR = OUTPUT_DIR / "05_captions"
 
-TIMELINE_CSV = INPUT_DIR / "CodeCopper_Dalia_Visual_Coverage_AUDIO_ALIGNED.csv"
+TIMELINE_CSV = INPUT_DIR / "CodeCopper_Dalia_CLAUDE_MEDIA_READY.csv"
+TIMELINE_CSV_FALLBACK = INPUT_DIR / "CodeCopper_Dalia_Visual_Coverage_AUDIO_ALIGNED.csv"
+if not TIMELINE_CSV.exists() and TIMELINE_CSV_FALLBACK.exists():
+    TIMELINE_CSV = TIMELINE_CSV_FALLBACK
 WORD_TIMING_CSV = INPUT_DIR / "Dalia_ElevenLabs_Word_Timing.csv"
 MASTER_VO_MP3 = INPUT_DIR / "Dalia_ElevenLabs_Master_VO.mp3"
+PACK_MEDIA_DIR = SOURCE_MEDIA_DIR / "pack_media"
 
 FPS = 30
 WIDTH, HEIGHT = 1920, 1080
@@ -200,6 +204,23 @@ def ffprobe_dimensions(path):
 def run(cmd, **kwargs):
     kwargs.setdefault("check", True)
     return subprocess.run(cmd, **kwargs)
+
+
+def resolve_pack_media_path(local_media_file):
+    """The media pack's 'LOCAL MEDIA FILE' column gives paths relative to the
+    pack root, e.g. '03_ACTUAL_MEDIA/04_location_assets/Boynton_Beach_map.webp'.
+    We copied that pack's 03_ACTUAL_MEDIA/ contents into
+    02_source_media/pack_media/, so strip the '03_ACTUAL_MEDIA/' (or
+    '04_DOWNLOADED_PUBLIC_RECORD_VIDEO/') prefix and resolve under there."""
+    if not local_media_file:
+        return None
+    rel = local_media_file.strip().replace("\\", "/")
+    for prefix in ("03_ACTUAL_MEDIA/", "04_DOWNLOADED_PUBLIC_RECORD_VIDEO/"):
+        if rel.startswith(prefix):
+            rel = rel[len(prefix):]
+            break
+    candidate = PACK_MEDIA_DIR / rel
+    return candidate if candidate.exists() else None
 
 
 def classify_media_path(path: Path):
