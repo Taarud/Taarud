@@ -1,0 +1,585 @@
+MISSING MEDIA REPORT
+Generated: 2026-08-17T21:22:32
+========================================================================
+
+96 row(s) had no local file in 02_source_media/ and were rendered
+as an obvious 'MISSING MEDIA' placeholder slate at the correct duration so the
+timeline stays intact. Drop the real footage/image into 02_source_media/ and
+re-run the pipeline to replace them.
+
+Clip 001.mp4 — Beat 1.1 (Cold Open)
+  Needed   : Dalia learns husband was "murdered"
+  On screen: Fake murder scene: officer delivers death notification
+  Duration : 4.00s (default cold-open shot duration (no cue found))
+  Match note: no local media files found in 02_source_media
+
+Clip 002.mp4 — Beat 2.1 (Cold Open)
+  Needed   : Full undercover hitman meeting
+  On screen: Undercover car: final commitment / 5,000% exchange
+  Duration : 4.00s (default cold-open shot duration (no cue found))
+  Match note: no local media files found in 02_source_media
+
+Clip 003.mp4 — Beat 3.1 (Cold Open)
+  Needed   : Boynton Beach Police arrest / fake scene + arrest
+  On screen: Dalia reacting at staged scene
+  Duration : 4.00s (default cold-open shot duration (no cue found))
+  Match note: no local media files found in 02_source_media
+
+Clip 005.mp4 — Beat 5.1 (Opening)
+  Needed   : Boynton Beach Police arrest / fake scene + arrest
+  On screen: Wide exterior / police cars at staged murder scene
+  Duration : 6.41s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 006.mp4 — Beat 5.2 (Opening)
+  Needed   : Court TV — The 'COPS' Tape
+  On screen: Crime-scene tape + officer interaction
+  Duration : 6.41s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 007.mp4 — Beat 5.3 (Opening)
+  Needed   : Dalia learns husband was "murdered"
+  On screen: Dalia's emotional reaction
+  Duration : 6.41s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 008.mp4 — Beat 5.4 (Opening)
+  Needed   : Full undercover hitman meeting
+  On screen: Quick undercover-car glimpse without the 5,000% payoff
+  Duration : 6.41s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 009.mp4 — Beat 5.5 (Opening)
+  Needed   : Court TV — Dalia Dippolito Undercover Meeting
+  On screen: Widy Jean / undercover-meeting trial presentation
+  Duration : 6.41s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 010.mp4 — Beat 5.6 (Opening)
+  Needed   : Dalia police interview — full
+  On screen: Interrogation-room establishing shot
+  Duration : 6.41s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 011.mp4 — Beat 5.7 (Opening)
+  Needed   : 2014 Florida appellate opinion
+  On screen: Appellate opinion page / highlighted chronology
+  Duration : 6.41s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 012.mp4 — Beat 6.1 (Dalia and Michael)
+  Needed   : Court TV — Michael Dippolito testimony
+  On screen: Michael Dippolito on the witness stand
+  Duration : 4.70s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 013.mp4 — Beat 6.2 (Dalia and Michael)
+  Needed   : Michael Dippolito questioned by police — full
+  On screen: Michael police interview
+  Duration : 3.23s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 014.mp4 — Beat 6.3 (Dalia and Michael)
+  Needed   : Court TV courtroom still
+  On screen: Dalia courtroom still
+  Duration : 3.04s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 016.mp4 — Beat 6.5 (Dalia and Michael)
+  Needed   : ABC — case background / prison & appeals
+  On screen: ABC case page for couple/court photos
+  Duration : 6.68s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 017.mp4 — Beat 6.6 (Dalia and Michael)
+  Needed   : Michael Dippolito: I Wish We Never Met
+  On screen: Michael later saying he wishes they never met
+  Duration : 4.97s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 018.mp4 — Beat 6.7 (Dalia and Michael)
+  Needed   : 2014 Florida appellate opinion
+  On screen: 2014 opinion page describing background
+  Duration : 8.39s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 019.mp4 — Beat 7.1 (The Informant)
+  Needed   : Court TV — Mohamed Shihadeh testimony
+  On screen: Mohamed Shihadeh on witness stand
+  Duration : 4.27s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 020.mp4 — Beat 7.2 (The Informant)
+  Needed   : Court TV — Dalia Dippolito Tapes
+  On screen: Dalia/Shihadeh recorded conversations presented at trial
+  Duration : 4.27s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 021.mp4 — Beat 7.3 (The Informant)
+  Needed   : ABC — hidden cameras / reality-TV defense background
+  On screen: ABC hidden-camera case background
+  Duration : 4.27s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 022.mp4 — Beat 7.4 (The Informant)
+  Needed   : Court TV — Detective Alex Moreno
+  On screen: Detective Alex Moreno testimony
+  Duration : 4.27s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 023.mp4 — Beat 7.5 (The Informant)
+  Needed   : 2014 Florida appellate opinion
+  On screen: Appellate opinion chronology
+  Duration : 4.27s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 024.mp4 — Beat 8.1 (The Informant)
+  Needed   : Court TV — Dalia Dippolito Tapes
+  On screen: Recorded Dalia/Shihadeh exchange establishing target/intent
+  Duration : 5.00s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 025.mp4 — Beat 9.1 (The Informant)
+  Needed   : Court TV — Dalia Dippolito Tapes
+  On screen: Recorded Dalia/Mohamed tapes / courtroom evidence playback
+  Duration : 5.47s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 026.mp4 — Beat 9.2 (The Informant)
+  Needed   : 2025 federal habeas Report and Recommendation — page 2
+  On screen: Federal court page showing recorded meeting + $1,200 payment
+  Duration : 12.60s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 028.mp4 — Beat 10.1 (The Hitman)
+  Needed   : Court TV — Dalia Dippolito Undercover Meeting
+  On screen: Widy Jean shown in undercover meeting
+  Duration : 2.34s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 029.mp4 — Beat 10.2 (The Hitman)
+  Needed   : ABC — undercover murder-for-hire reporting
+  On screen: ABC undercover case page
+  Duration : 2.34s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 030.mp4 — Beat 10.3 (The Hitman)
+  Needed   : Full undercover hitman meeting
+  On screen: Raw undercover-car establishing shot
+  Duration : 2.34s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 032.mp4 — Beat 11.1 (Undercover Meeting)
+  Needed   : Full undercover hitman meeting
+  On screen: Undercover plan discussion
+  Duration : 10.00s (default insert duration (no cue found))
+  Match note: no local media files found in 02_source_media
+
+Clip 033.mp4 — Beat 12.1 (Undercover Meeting)
+  Needed   : Full undercover hitman meeting
+  On screen: Undercover meeting under VO
+  Duration : 14.02s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 034.mp4 — Beat 12.2 (Undercover Meeting)
+  Needed   : ABC — undercover murder-for-hire reporting
+  On screen: ABC reporting on explicit warnings/back-out opportunity
+  Duration : 4.75s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 035.mp4 — Beat 12.3 (Undercover Meeting)
+  Needed   : Court TV — Detective Alex Moreno
+  On screen: Detective testimony explaining undercover setup
+  Duration : 9.38s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 036.mp4 — Beat 13.1 (Undercover Meeting)
+  Needed   : Full undercover hitman meeting
+  On screen: 5,000% commitment exchange
+  Duration : 10.00s (default insert duration (no cue found))
+  Match note: no local media files found in 02_source_media
+
+Clip 037.mp4 — Beat 14.1 (Undercover Meeting)
+  Needed   : Full undercover hitman meeting
+  On screen: Undercover meeting ending
+  Duration : 2.69s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 038.mp4 — Beat 14.2 (Undercover Meeting)
+  Needed   : 2014 Florida appellate opinion
+  On screen: Appellate opinion transition to staged scene
+  Duration : 11.29s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 039.mp4 — Beat 14.3 (Undercover Meeting)
+  Needed   : Boynton Beach Police arrest / fake scene + arrest
+  On screen: Very brief teaser of staged scene setup
+  Duration : 1.52s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 040.mp4 — Beat 15.1 (Undercover Meeting)
+  Needed   : Full undercover hitman meeting
+  On screen: Dalia leaves / final moments of undercover meeting
+  Duration : 10.00s (default insert duration (no cue found))
+  Match note: no local media files found in 02_source_media
+
+Clip 042.mp4 — Beat 16.1 (Building the Fake Murder)
+  Needed   : Court TV — Sgt. Frank Ranzie
+  On screen: Sgt. Frank Ranzie testimony
+  Duration : 11.77s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 043.mp4 — Beat 16.2 (Building the Fake Murder)
+  Needed   : Boynton Beach Police arrest / fake scene + arrest
+  On screen: Police preparing / staged scene wide shots
+  Duration : 12.81s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 044.mp4 — Beat 16.3 (Building the Fake Murder)
+  Needed   : Court TV — The 'COPS' Tape
+  On screen: COPS-tape trial presentation
+  Duration : 3.93s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 045.mp4 — Beat 16.4 (Building the Fake Murder)
+  Needed   : ABC — police testimony / COPS defense context
+  On screen: Defense / COPS-misconduct argument reference
+  Duration : 8.75s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 046.mp4 — Beat 16.5 (Building the Fake Murder)
+  Needed   : 2019 Florida appellate opinion
+  On screen: 2019 appellate opinion — COPS involvement came after solicitation was complete
+  Duration : 2.29s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 048.mp4 — Beat 17.1 (The Fake Death)
+  Needed   : Dalia learns husband was "murdered"
+  On screen: Full fake death-notification payoff
+  Duration : 10.00s (default insert duration (no cue found))
+  Match note: no local media files found in 02_source_media
+
+Clip 049.mp4 — Beat 18.1 (The Fake Death)
+  Needed   : Boynton Beach Police arrest / fake scene + arrest
+  On screen: Dalia still reacting at scene
+  Duration : 9.25s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 050.mp4 — Beat 18.2 (The Fake Death)
+  Needed   : Boynton Beach Police arrest / fake scene + arrest
+  On screen: Police escort / transition toward station
+  Duration : 9.25s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 051.mp4 — Beat 18.3 (The Fake Death)
+  Needed   : Dalia police interview — full
+  On screen: Interrogation room establishing shot
+  Duration : 9.25s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 052.mp4 — Beat 18.4 (The Fake Death)
+  Needed   : 2014 Florida appellate opinion
+  On screen: Appellate opinion confirming staged scene → interview
+  Duration : 9.25s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 053.mp4 — Beat 19.1 (Interrogation Transition)
+  Needed   : Dalia police interview — full
+  On screen: Police interview opening / Dalia seated
+  Duration : 2.61s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 054.mp4 — Beat 19.3 (Interrogation Transition)
+  Needed   : Court TV — Dalia Dippolito Interview
+  On screen: Court TV interview presentation
+  Duration : 2.61s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 056.mp4 — Beat 20.1 (The Interrogation)
+  Needed   : Dalia police interview — full
+  On screen: Early interrogation before sting reveal
+  Duration : 37.50s (midpoint of stated range '35–40 sec')
+  Match note: no local media files found in 02_source_media
+
+Clip 057.mp4 — Beat 21.1 (The Interrogation)
+  Needed   : Dalia police interview — full
+  On screen: Interrogation under narration
+  Duration : 10.92s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 058.mp4 — Beat 21.2 (The Interrogation)
+  Needed   : Full undercover hitman meeting
+  On screen: Brief replay of undercover meeting
+  Duration : 2.05s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 059.mp4 — Beat 21.3 (The Interrogation)
+  Needed   : Court TV — Dalia Dippolito Tapes
+  On screen: Brief tape/court evidence insert
+  Duration : 6.95s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 060.mp4 — Beat 21.4 (The Interrogation)
+  Needed   : 2014 Florida appellate opinion
+  On screen: Appellate opinion interrogation summary
+  Duration : 6.64s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 061.mp4 — Beat 22.1 (The Interrogation)
+  Needed   : Dalia police interview — full
+  On screen: Detectives challenge Dalia's account
+  Duration : 40.00s (midpoint of stated range '35–45 sec')
+  Match note: no local media files found in 02_source_media
+
+Clip 062.mp4 — Beat 23.1 (The Interrogation)
+  Needed   : Dalia police interview — full
+  On screen: Moments just before Widy enters
+  Duration : 2.46s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 063.mp4 — Beat 24.1 (The Reveal)
+  Needed   : Dalia police interview — full
+  On screen: Widy enters; Dalia denies knowing him; police expose sting
+  Duration : 10.00s (default insert duration (no cue found))
+  Match note: no local media files found in 02_source_media
+
+Clip 064.mp4 — Beat 25.1 (The Reveal)
+  Needed   : Dalia police interview — full
+  On screen: Freeze/hold on Dalia after reveal
+  Duration : 1.72s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 065.mp4 — Beat 25.2 (The Reveal)
+  Needed   : Full undercover hitman meeting
+  On screen: Quick callback to Widy in undercover car
+  Duration : 2.84s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 066.mp4 — Beat 25.3 (The Reveal)
+  Needed   : Court TV — Dalia Dippolito Tapes
+  On screen: Quick callback to recordings/tapes
+  Duration : 5.00s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 067.mp4 — Beat 26.1 (The Jail Call)
+  Needed   : Jail phone conversation — Dalia and Michael
+  On screen: Jail-call setup / call beginning
+  Duration : 5.69s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 068.mp4 — Beat 26.2 (The Jail Call)
+  Needed   : Michael Dippolito questioned by police — full
+  On screen: Michael police interview
+  Duration : 2.02s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 069.mp4 — Beat 26.3 (The Jail Call)
+  Needed   : ABC — jailhouse phone-call segment
+  On screen: ABC jail-call package
+  Duration : 2.02s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 070.mp4 — Beat 26.4 (The Jail Call)
+  Needed   : Dalia police interview — full
+  On screen: Brief Dalia interrogation shot
+  Duration : 2.84s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 071.mp4 — Beat 27.1 (The Jail Call)
+  Needed   : Jail phone conversation — Dalia and Michael
+  On screen: Michael confronts Dalia on jail call
+  Duration : 22.50s (midpoint of stated range '20–25 sec')
+  Match note: no local media files found in 02_source_media
+
+Clip 072.mp4 — Beat 28.1 (The Jail Call)
+  Needed   : Court TV — Complete 2011 trial archive
+  On screen: Courthouse/trial establishing shot
+  Duration : 5.94s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 073.mp4 — Beat 28.2 (The Jail Call)
+  Needed   : Court TV — Prosecution opening statement
+  On screen: Prosecution opening / courtroom
+  Duration : 5.94s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 074.mp4 — Beat 29.1 (The Defense)
+  Needed   : Court TV — Defense opening statement
+  On screen: Defense opening statement
+  Duration : 14.70s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 075.mp4 — Beat 29.2 (The Defense)
+  Needed   : Dalia testifies she was acting
+  On screen: Dalia in courtroom / testimony
+  Duration : 4.08s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 076.mp4 — Beat 29.3 (The Defense)
+  Needed   : Court TV — Defense closing argument
+  On screen: Defense closing argument
+  Duration : 4.08s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 077.mp4 — Beat 29.4 (The Defense)
+  Needed   : ABC — hidden cameras / reality-TV defense background
+  On screen: ABC hidden-camera / reality-TV defense article
+  Duration : 4.08s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 078.mp4 — Beat 29.5 (The Defense)
+  Needed   : ABC — police testimony about sting
+  On screen: ABC report on police/COPS criticism
+  Duration : 15.39s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 079.mp4 — Beat 29.6 (The Defense)
+  Needed   : Court TV — Michael Dippolito testimony
+  On screen: Michael testimony
+  Duration : 4.08s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 080.mp4 — Beat 29.7 (The Defense)
+  Needed   : Court TV courtroom still
+  On screen: Court TV courtroom still
+  Duration : 4.64s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 081.mp4 — Beat 30.1 (The Defense)
+  Needed   : Dalia testifies she was acting
+  On screen: Dalia explains acting/script defense herself
+  Duration : 12.50s (midpoint of stated range '10–15 sec')
+  Match note: no local media files found in 02_source_media
+
+Clip 082.mp4 — Beat 31.1 (Convicted, Then Overturned)
+  Needed   : Raw video — Dalia found guilty (2011)
+  On screen: 2011 guilty verdict
+  Duration : 8.81s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 083.mp4 — Beat 31.3 (Convicted, Then Overturned)
+  Needed   : Judge explains 20-year sentence (2011)
+  On screen: Judge explains 20-year sentence
+  Duration : 16.80s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 084.mp4 — Beat 31.4 (Convicted, Then Overturned)
+  Needed   : Court TV — 2011 sentencing
+  On screen: Court TV sentencing
+  Duration : 4.00s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 085.mp4 — Beat 31.5 (Convicted, Then Overturned)
+  Needed   : 2014 Florida appellate opinion
+  On screen: 2014 appellate opinion — reversal
+  Duration : 13.61s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 086.mp4 — Beat 31.6 (Convicted, Then Overturned)
+  Needed   : Web source
+  On screen: WPTV article on appeal / case dismissal attempt
+  Duration : 8.81s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 088.mp4 — Beat 32.1 (Trial Two)
+  Needed   : Mistrial declared in Dippolito retrial
+  On screen: 2016 mistrial report / courtroom
+  Duration : 3.68s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 089.mp4 — Beat 32.2 (Trial Two)
+  Needed   : ABC — 2016 mistrial / 3–3 split
+  On screen: ABC 3–3 jury split article
+  Duration : 3.68s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 090.mp4 — Beat 32.3 (Trial Two)
+  Needed   : Michael reacts to Dalia mistrial
+  On screen: Michael reaction after mistrial
+  Duration : 3.68s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 091.mp4 — Beat 32.4 (Trial Two)
+  Needed   : Courthouse News — 2016 mistrial
+  On screen: Courthouse News mistrial report
+  Duration : 3.68s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 093.mp4 — Beat 33.1 (Trial Three)
+  Needed   : Dalia Dippolito retrial verdict (2017)
+  On screen: 2017 retrial courtroom / verdict lead-in
+  Duration : 1.75s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 094.mp4 — Beat 33.2 (Trial Three)
+  Needed   : ABC — case background / prison & appeals
+  On screen: ABC case outcome / 90-minute deliberation
+  Duration : 3.79s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 095.mp4 — Beat 33.3 (Trial Three)
+  Needed   : NBC Miami — third-trial background
+  On screen: NBC Miami third-trial background
+  Duration : 3.79s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 097.mp4 — Beat 34.1 (Trial Three)
+  Needed   : Dalia Dippolito retrial verdict (2017)
+  On screen: 2017 guilty verdict
+  Duration : 10.00s (default insert duration (no cue found))
+  Match note: no local media files found in 02_source_media
+
+Clip 098.mp4 — Beat 35.1 (Sentencing)
+  Needed   : Dalia Dippolito sentenced to 16 years
+  On screen: 2017 sentencing — Dalia/judge
+  Duration : 5.52s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 099.mp4 — Beat 35.2 (Sentencing)
+  Needed   : Dalia Dippolito sentenced to 16 years — alternate
+  On screen: Alternate sentencing angle/package
+  Duration : 4.88s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 100.mp4 — Beat 35.3 (Sentencing)
+  Needed   : 2019 Florida appellate opinion
+  On screen: 2019 appellate opinion
+  Duration : 5.90s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 101.mp4 — Beat 35.4 (Sentencing)
+  Needed   : U.S. District Court habeas record (2025)
+  On screen: 2025 federal habeas Report and Recommendation / final-judgment docket
+  Duration : 6.09s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 103.mp4 — Beat 36.1 (Ending)
+  Needed   : Full undercover hitman meeting
+  On screen: Return to undercover car, earlier neutral section
+  Duration : 3.24s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 104.mp4 — Beat 36.2 (Ending)
+  Needed   : Court TV — Dalia Dippolito Undercover Meeting
+  On screen: Court TV undercover meeting alternate
+  Duration : 4.74s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 105.mp4 — Beat 36.3 (Ending)
+  Needed   : 2014 Florida appellate opinion
+  On screen: 2014 opinion / case chronology page
+  Duration : 3.66s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 106.mp4 — Beat 36.4 (Ending)
+  Needed   : Court TV — Dalia tapes replay
+  On screen: Tape replay / trial evidence
+  Duration : 7.13s (VO End - VO Start)
+  Match note: no local media files found in 02_source_media
+
+Clip 107.mp4 — Beat 37.1 (Ending)
+  Needed   : Full undercover hitman meeting
+  On screen: Final back-out warning + Dalia's emphatic confirmation
+  Duration : 10.00s (default insert duration (no cue found))
+  Match note: no local media files found in 02_source_media
+

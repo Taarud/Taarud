@@ -1,0 +1,110 @@
+You are helping me build a CapCut-ready documentary assembly kit.
+
+IMPORTANT:
+Do NOT try to operate CapCut directly.
+Do NOT rely on GUI automation.
+Do NOT build a fragile click-based workflow.
+Instead, prepare all media so I can drag it into CapCut almost as-is.
+
+GOAL:
+Create a full drag-and-drop-ready assembly package for my documentary project.
+
+WHAT I WANT:
+1. Read my audio-aligned CSV timeline.
+2. Read my master voiceover MP3.
+3. Read my local source media.
+4. Convert every still image into an MP4 of the exact required duration.
+5. Trim every video clip to the exact required duration.
+6. Preserve source audio for insert clips.
+7. Mute source audio for overlay-under-voiceover clips.
+8. Create a sequence of numbered timeline clips ready to drag into CapCut.
+9. Create a timeline-adjusted voiceover track with silence inserted wherever a source-audio insert clip should play.
+10. Create a roughcut preview MP4 for QC.
+11. Create a full report of what was used, what was missing, and what assumptions were made.
+
+PROJECT PRIORITY:
+The main objective is NOT a finished artistic edit.
+The objective is to make a CapCut-ready assembly kit that is extremely fast to import and polish manually.
+
+ENVIRONMENT:
+- Use Python plus FFmpeg.
+- Assume this is running locally on my machine.
+- If FFmpeg is missing, tell me clearly.
+- Prefer deterministic scripting over anything fuzzy or manual.
+
+INPUT FILES:
+These files are in the project folder:
+- 01_input/CodeCopper_Dalia_Visual_Coverage_AUDIO_ALIGNED.csv
+- 01_input/Dalia_ElevenLabs_Master_VO.mp3
+- 01_input/Dalia_ElevenLabs_Word_Timing.csv
+- 01_input/CodeCopper_Dalia_AUDIO_ALIGNED.xlsx (not supplied this run)
+
+SOURCE MEDIA:
+All source media is located under:
+- 02_source_media/images/
+- 02_source_media/videos/
+- 02_source_media/documents/
+- 02_source_media/misc/
+
+You should scan the source media folders and attempt to match files to timeline rows based on:
+- explicit local filename if available
+- beat number
+- source description
+- source name
+- visual description
+- fuzzy filename matching
+
+If a media item cannot be matched confidently, do NOT hallucinate.
+Log it in a missing-media report and continue.
+
+CORE RULES:
+1. Do not ask me a bunch of questions unless you are completely blocked.
+2. Make sensible assumptions and log them.
+3. Prefer using the first valid non-backup/non-alternate media item for a beat.
+4. Skip rows that are clearly backups or alternates unless needed.
+5. Create everything in a way that is editable in CapCut after import.
+
+TIMELINE RULES:
+There are two time systems:
+- VO time = time within the clean narration MP3
+- Project time = final edit time including cold open and inserted real clips
+You must derive the final project timeline from the CSV.
+
+INTERPRETING CSV:
+A) OVERLAY UNDER VO -> narration continues; duration = VO End - VO Start; mute source audio.
+B) OVERLAY / OPTIONAL PAUSE FOR SOURCE AUDIO -> default to overlay under VO unless context clearly indicates a real insert; log the judgment call.
+C) PAUSE VO / INSERT REAL CLIP -> narration pauses; duration from target clip length (or parsed from source notes / midpoint of a stated range); preserve source audio; insert equivalent silence into CapCut voiceover track; shift downstream timeline.
+D) PRE-VO COLD OPEN -> occurs before narration starts; duration from target clip length or beat timing; preserve audio if real footage; contributes to final project duration.
+
+BACKUP / ALTERNATE RULES:
+Treat a row as non-primary if "Alternate"/"Backup"/"Optional" appears in Visual Type or Place-Against-Script, or context says duplicate option. Choose ONE primary clip per insert beat.
+
+IMAGE HANDLING: 1920x1080, 30fps, H.264, exact duration, restrained zoom/pan.
+VIDEO HANDLING: trim/scale/pad to 1920x1080 @30fps; keep audio only for insert clips; freeze last frame if too short; trim if too long.
+
+NAMING: sequential 001.mp4, 002.mp4, ... plus a manifest mapping clip number to source, beat, visual #, project start/end, VO start/end, audio usage.
+
+VOICEOVER OUTPUTS:
+1. 04_output/02_audio/voiceover_clean.mp3
+2. 04_output/02_audio/voiceover_for_timeline.wav (silence inserted wherever PAUSE VO / INSERT REAL CLIP occurs)
+
+ROUGHCUT: 04_output/03_preview/roughcut_preview.mp4 (numbered clips in order + timeline-adjusted VO, QC only).
+
+CAPTIONS: 04_output/05_captions/captions.srt from the word-timing CSV (phrase-level acceptable).
+
+REPORTS (04_output/04_reports/):
+assembly_report.txt, missing_media_report.txt, media_map_used.csv, timeline_manifest.csv, capcut_import_steps.txt.
+
+PROJECT-TIME MATH:
+cold_open_total = sum of all PRE-VO row durations, placed sequentially from project time 0.
+insert_offset = running sum of completed insert-clip durations.
+Overlay row: project_start = cold_open_total + vo_start + insert_offset; project_end = cold_open_total + vo_end + insert_offset.
+Insert row: project_start = cold_open_total + vo_anchor + insert_offset; project_end = project_start + insert_duration; then insert_offset += insert_duration.
+
+QUALITY CONTROL: verify sequential numbering, 1920x1080 @30fps on every clip, total timeline length matches preview output, voiceover_for_timeline.wav aligns with insert silences, roughcut renders successfully.
+
+IF MEDIA IS MISSING: do not stop unless too much is missing. Use clearly labeled placeholder slates ("MISSING MEDIA — Beat X Visual Y") as a last resort, logged in missing_media_report.txt.
+
+FINAL BEHAVIOR: Actually do the work — create the scripts, generate the timeline clips, generate the timeline-adjusted voiceover, generate the preview, write the reports. Start by scanning the project folder, summarizing what exists, matching source media to timeline rows, then building the output package.
+
+NOTE FROM USER: If local source media filenames are ambiguous, create a working media map first before rendering. The map should include: beat_order, visual_number, chosen_local_file, confidence, why_this_file_was_chosen. Then proceed.

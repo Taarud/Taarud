@@ -1,0 +1,28 @@
+# Generated build artifacts — regenerate with `python3 05_scripts/run_all.py`.
+# Keeping these out of git: they're fully derivable from 01_input/ +
+# 02_source_media/ + the scripts, and the rendered clips/audio/preview get
+# large fast (100s of MB) once real source footage is dropped in.
+03_working/
+04_output/01_timeline_clips/*.mp4
+04_output/02_audio/*.mp3
+04_output/02_audio/*.wav
+04_output/03_preview/*.mp4
+
+# Keep the folder structure itself under version control.
+!04_output/01_timeline_clips/.gitkeep
+!04_output/02_audio/.gitkeep
+!04_output/03_preview/.gitkeep
+
+# Drop-in source media the user supplies locally — not checked in.
+02_source_media/images/*
+02_source_media/videos/*
+02_source_media/documents/*
+02_source_media/misc/*
+!02_source_media/images/.gitkeep
+!02_source_media/videos/.gitkeep
+!02_source_media/documents/.gitkeep
+!02_source_media/misc/.gitkeep
+
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,29 @@
+HOW TO IMPORT THIS INTO CAPCUT
+Generated: 2026-08-17T21:22:32
+========================================================================
+
+1. Open CapCut and start a new project (1920x1080, 30fps).
+2. Import every file from 04_output/01_timeline_clips/ (001.mp4 ... 108.mp4).
+3. Select all imported clips in the media bin, sorted by name, and drag them
+   onto the video track in order (001 first). They already run the correct
+   length, so they'll snap end-to-end with no trimming needed.
+4. Import 04_output/02_audio/voiceover_for_timeline.wav and drag it onto an
+   audio track starting at 00:00 of the timeline. It already has silence
+   inserted everywhere a real-audio insert clip plays, so it lines up under
+   the video without further adjustment.
+5. (Optional) Import 04_output/05_captions/captions.srt for burn-in or
+   soft captions — cue times are already in project-timeline seconds, not
+   raw voiceover seconds.
+6. (Optional) Import 04_output/02_audio/voiceover_clean.mp3 if you ever need
+   the plain, unmodified narration by itself.
+7. Check 04_output/04_reports/missing_media_report.txt — swap out any clip
+   still showing a red "MISSING MEDIA" placeholder for the real footage/
+   image, matching the beat/visual number in the filename, then re-render
+   just that clip (or drop the file into 02_source_media/ and re-run
+   05_scripts/run_all.py to regenerate everything automatically).
+8. From there: add music, transitions, and polish to taste. The heavy
+   lifting (timing, ordering, muting/audio decisions) is already done.
+
+Reference: 04_output/03_preview/roughcut_preview.mp4 is a same-length QC
+render of steps 2-4 combined — use it to sanity-check pacing before you
+start manual polish in CapCut.

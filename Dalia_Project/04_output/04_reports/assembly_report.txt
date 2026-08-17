@@ -1,0 +1,72 @@
+DALIA DIPPOLITO DOCUMENTARY — CAPCUT ASSEMBLY REPORT
+Generated: 2026-08-17T21:22:32
+========================================================================
+
+INPUTS
+  Timeline CSV : CodeCopper_Dalia_Visual_Coverage_AUDIO_ALIGNED.csv
+  Word timing  : Dalia_ElevenLabs_Word_Timing.csv
+  Master VO    : Dalia_ElevenLabs_Master_VO.mp3
+  Master VO duration: 659.20s
+
+TIMELINE ROWS
+  Total CSV rows            : 122
+  Primary rows kept         : 108
+  Backup/alternate excluded : 14
+    PRE_VO  : 4
+    OVERLAY : 91
+    INSERT  : 13
+
+PROJECT TIMELINE
+  Cold open total      : 14.500s
+  Total project length : 747.047s (12.45 min)
+  Master VO length     : 659.200s
+  Added by cold open + inserts: 87.847s
+
+MEDIA MATCHING
+  Matched to local source media : 0
+  Auto-generated original graphics: 12
+  Missing (placeholder slate)   : 96
+
+QUALITY CONTROL
+  [PASS] Sequential numbering: 108 clips, 001-108, no gaps.
+  [PASS] All 108 clips are 1920x1080.
+  [PASS] voiceover_for_timeline.wav duration (747.05s) matches project timeline (747.05s).
+  [PASS] roughcut_preview.mp4 rendered successfully (746.63s, matches project timeline).
+
+ASSUMPTIONS / JUDGMENT CALLS
+  - 'OVERLAY / OPTIONAL PAUSE FOR SOURCE AUDIO' rows were classified as a real
+    INSERT (source audio preserved, VO paused) when their Beat Type/Visual Type
+    said 'real audio/footage'; otherwise treated as a plain overlay. Verify in
+    media_map_used.csv (audio_use_category column) before final export.
+  - A row was treated as backup/non-primary (excluded) whenever its Visual Type
+    was 'Alternate' or its Place-Against-Script field mentioned
+    backup/alternate/optional, per the CSV's own labeling.
+  - Rows whose Source Name/Source Class marked them as an original/editor-created
+    asset (title cards, timelines, lower-thirds) were rendered directly as text
+    cards rather than flagged as missing media.
+  - INSERT / cold-open clip durations came from numeric ranges found in the
+    'Exact Source Cue / What to Pull' text (range midpoint used) where present;
+    rows with no numeric cue got a logged default (see below).
+  - Matched real video clips are trimmed from the start of the matched file
+    (the CSV gives descriptive in/out cues, not exact source timecodes) —
+    re-park the in/out points by hand once real footage is dropped in.
+
+  Per-row logged assumptions (16):
+    [Beat 1.1] No duration cue for cold-open shot — defaulted to 4.0s.
+    [Beat 2.1] No duration cue for cold-open shot — defaulted to 4.0s.
+    [Beat 3.1] No duration cue for cold-open shot — defaulted to 4.0s.
+    [Beat 4.1] No duration cue for title card — defaulted to 2.5s.
+    [Beat 8.1] Audio Use = 'OVERLAY / OPTIONAL PAUSE FOR SOURCE AUDIO' — kept as an overlay (narration plays, VO span used as duration) per the default rule, since this row has real scripted narration across VO Start/End. Source audio could optionally replace it — swap manually in CapCut if desired.
+    [Beat 8.2] Audio Use = 'OVERLAY / OPTIONAL PAUSE FOR SOURCE AUDIO' — kept as an overlay (narration plays, VO span used as duration) per the default rule, since this row has real scripted narration across VO Start/End. Source audio could optionally replace it — swap manually in CapCut if desired.
+    [Beat 11.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 13.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 15.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 15.2] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 17.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 24.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 34.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 37.1] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [Beat 37.2] INSERT row had no explicit duration cue — defaulted to 10.0s. Adjust in CapCut once real footage is placed.
+    [project timeline] Positioned every primary row sequentially (each starts where the previous ends) rather than at its absolute VO-anchored position, because a few beat boundaries in the source CSV have overlapping VO Start/End values. Each row's own duration is unchanged (VO End-VO Start for overlays, parsed/default target length for inserts and cold opens) — this only affects where the clip is placed on the project timeline. See vo_start/vo_end/vo_anchor columns in timeline_manifest.csv for the original VO-time reference.
+
+See media_map_used.csv and timeline_manifest.csv in this folder for full detail.

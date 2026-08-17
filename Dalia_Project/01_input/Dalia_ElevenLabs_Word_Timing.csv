@@ -1,0 +1,1437 @@
+﻿Word #,Unit,Word in Unit,StartSec,EndSec,Word,Utterance
+1,1,1,0.0,0.213,In,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+2,1,2,0.213,0.684,August,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+3,1,3,0.684,0.897,of,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+4,1,4,0.897,1.248,2009,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+5,1,5,1.248,1.661,Dalia,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+6,1,6,1.661,2.586,Dippolito,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+7,1,7,2.586,3.112,arrived,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+8,1,8,3.112,3.633,home,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+9,1,9,3.633,3.847,to,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+10,1,10,3.847,4.198,what,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+11,1,11,4.198,4.668,looked,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+12,1,12,4.668,5.02,like,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+13,1,13,5.02,5.149,a,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+14,1,14,5.149,5.619,murder,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+15,1,15,5.619,6.032,scene,"In August of 2009, Dalia Dippolito arrived home to what looked like a murder scene."
+16,2,1,6.732,7.127,Police,Police surrounded her house.
+17,2,2,7.127,7.698,surrounded,Police surrounded her house.
+18,2,3,7.698,7.938,her,Police surrounded her house.
+19,2,4,7.938,8.285,house,Police surrounded her house.
+20,3,1,9.088,9.441,Crime,Crime-scene tape blocked the entrance.
+21,3,2,9.441,9.794,scene,Crime-scene tape blocked the entrance.
+22,3,3,9.794,10.095,tape,Crime-scene tape blocked the entrance.
+23,3,4,10.095,10.545,blocked,Crime-scene tape blocked the entrance.
+24,3,5,10.545,10.789,the,Crime-scene tape blocked the entrance.
+25,3,6,10.789,11.285,entrance,Crime-scene tape blocked the entrance.
+26,4,1,12.013,12.218,And,"And an officer told her that her husband, Michael..."
+27,4,2,12.218,12.371,an,"And an officer told her that her husband, Michael..."
+28,4,3,12.371,12.748,officer,"And an officer told her that her husband, Michael..."
+29,4,4,12.748,13.001,told,"And an officer told her that her husband, Michael..."
+30,4,5,13.001,13.206,her,"And an officer told her that her husband, Michael..."
+31,4,6,13.206,13.458,that,"And an officer told her that her husband, Michael..."
+32,4,7,13.458,13.663,her,"And an officer told her that her husband, Michael..."
+33,4,8,13.663,14.317,husband,"And an officer told her that her husband, Michael..."
+34,4,9,14.317,14.694,Michael,"And an officer told her that her husband, Michael..."
+35,5,1,15.707,15.903,had,had been killed.
+36,5,2,15.903,16.144,been,had been killed.
+37,5,3,16.144,16.467,killed,had been killed.
+38,6,1,17.603,18.015,Dalia,Dalia broke down.
+39,6,2,18.015,18.427,broke,Dalia broke down.
+40,6,3,18.427,18.778,down,Dalia broke down.
+41,7,1,19.509,19.709,But,But there was just one problem.
+42,7,2,19.709,19.998,there,But there was just one problem.
+43,7,3,19.998,20.198,was,But there was just one problem.
+44,7,4,20.198,20.445,just,But there was just one problem.
+45,7,5,20.445,20.645,one,But there was just one problem.
+46,7,6,20.645,21.013,problem,But there was just one problem.
+47,8,1,22.021,22.532,Michael,Michael wasn't dead.
+48,8,2,22.532,22.933,wasn't,Michael wasn't dead.
+49,8,3,22.933,23.275,dead,Michael wasn't dead.
+50,9,1,24.352,24.638,There,There hadn't been a murder.
+51,9,2,24.638,24.923,hadn't,There hadn't been a murder.
+52,9,3,24.923,25.166,been,There hadn't been a murder.
+53,9,4,25.166,25.256,a,There hadn't been a murder.
+54,9,5,25.256,25.581,murder,There hadn't been a murder.
+55,10,1,26.413,26.636,And,And nearly everything Dalia was looking at...
+56,10,2,26.636,27.185,nearly,And nearly everything Dalia was looking at...
+57,10,3,27.185,27.713,everything,And nearly everything Dalia was looking at...
+58,10,4,27.713,28.034,Dalia,And nearly everything Dalia was looking at...
+59,10,5,28.034,28.256,was,And nearly everything Dalia was looking at...
+60,10,6,28.256,28.665,looking,And nearly everything Dalia was looking at...
+61,10,7,28.665,28.831,at,And nearly everything Dalia was looking at...
+62,11,1,29.771,30.062,had,had been staged by police.
+63,11,2,30.062,30.42,been,had been staged by police.
+64,11,3,30.42,30.9,staged,had been staged by police.
+65,11,4,30.9,31.117,by,had been staged by police.
+66,11,5,31.117,31.597,police,had been staged by police.
+67,12,1,32.578,32.967,Because,Because investigators believed the woman they were consoling...
+68,12,2,32.967,33.574,investigators,Because investigators believed the woman they were consoling...
+69,12,3,33.574,34.002,believed,Because investigators believed the woman they were consoling...
+70,12,4,34.002,34.213,the,Because investigators believed the woman they were consoling...
+71,12,5,34.213,34.518,woman,Because investigators believed the woman they were consoling...
+72,12,6,34.518,34.778,they,Because investigators believed the woman they were consoling...
+73,12,7,34.778,35.038,were,Because investigators believed the woman they were consoling...
+74,12,8,35.038,35.504,consoling,Because investigators believed the woman they were consoling...
+75,13,1,36.261,36.493,had,had spent the previous days arranging the murder herself.
+76,13,2,36.493,36.827,spent,had spent the previous days arranging the murder herself.
+77,13,3,36.827,37.059,the,had spent the previous days arranging the murder herself.
+78,13,4,37.059,37.529,previous,had spent the previous days arranging the murder herself.
+79,13,5,37.529,37.814,days,had spent the previous days arranging the murder herself.
+80,13,6,37.814,38.325,arranging,had spent the previous days arranging the murder herself.
+81,13,7,38.325,38.557,the,had spent the previous days arranging the murder herself.
+82,13,8,38.557,38.938,murder,had spent the previous days arranging the murder herself.
+83,13,9,38.938,39.365,herself,had spent the previous days arranging the murder herself.
+84,14,1,40.348,40.568,And,And the man she thought she'd hired to do it?
+85,14,2,40.568,40.788,the,And the man she thought she'd hired to do it?
+86,14,3,40.788,41.008,man,And the man she thought she'd hired to do it?
+87,14,4,41.008,41.228,she,And the man she thought she'd hired to do it?
+88,14,5,41.228,41.633,thought,And the man she thought she'd hired to do it?
+89,14,6,41.633,41.904,she'd,And the man she thought she'd hired to do it?
+90,14,7,41.904,42.222,hired,And the man she thought she'd hired to do it?
+91,14,8,42.222,42.386,to,And the man she thought she'd hired to do it?
+92,14,9,42.386,42.551,do,And the man she thought she'd hired to do it?
+93,14,10,42.551,42.715,it,And the man she thought she'd hired to do it?
+94,15,1,43.552,43.722,He,He was a police officer.
+95,15,2,43.722,43.95,was,He was a police officer.
+96,15,3,43.95,44.054,a,He was a police officer.
+97,15,4,44.054,44.429,police,He was a police officer.
+98,15,5,44.429,44.849,officer,He was a police officer.
+99,16,1,45.633,45.802,To,"To understand how police got here, you have to go back only a few months."
+100,16,2,45.802,46.339,understand,"To understand how police got here, you have to go back only a few months."
+101,16,3,46.339,46.564,how,"To understand how police got here, you have to go back only a few months."
+102,16,4,46.564,46.936,police,"To understand how police got here, you have to go back only a few months."
+103,16,5,46.936,47.162,got,"To understand how police got here, you have to go back only a few months."
+104,16,6,47.162,47.439,here,"To understand how police got here, you have to go back only a few months."
+105,16,7,47.439,48.121,you,"To understand how police got here, you have to go back only a few months."
+106,16,8,48.121,48.399,have,"To understand how police got here, you have to go back only a few months."
+107,16,9,48.399,48.567,to,"To understand how police got here, you have to go back only a few months."
+108,16,10,48.567,48.736,go,"To understand how police got here, you have to go back only a few months."
+109,16,11,48.736,49.014,back,"To understand how police got here, you have to go back only a few months."
+110,16,12,49.014,49.291,only,"To understand how police got here, you have to go back only a few months."
+111,16,13,49.291,49.394,a,"To understand how police got here, you have to go back only a few months."
+112,16,14,49.394,49.619,few,"To understand how police got here, you have to go back only a few months."
+113,16,15,49.619,49.991,months,"To understand how police got here, you have to go back only a few months."
+114,17,1,51.059,51.463,Dalia,Dalia and Michael Dippolito's relationship moved incredibly fast.
+115,17,2,51.463,51.743,and,Dalia and Michael Dippolito's relationship moved incredibly fast.
+116,17,3,51.743,52.258,Michael,Dalia and Michael Dippolito's relationship moved incredibly fast.
+117,17,4,52.258,52.924,Dippolito's,Dalia and Michael Dippolito's relationship moved incredibly fast.
+118,17,5,52.924,53.683,relationship,Dalia and Michael Dippolito's relationship moved incredibly fast.
+119,17,6,53.683,54.087,moved,Dalia and Michael Dippolito's relationship moved incredibly fast.
+120,17,7,54.087,54.752,incredibly,Dalia and Michael Dippolito's relationship moved incredibly fast.
+121,17,8,54.752,55.097,fast,Dalia and Michael Dippolito's relationship moved incredibly fast.
+122,18,1,55.76,56.013,When,"When they began seeing each other, Michael was still married."
+123,18,2,56.013,56.266,they,"When they began seeing each other, Michael was still married."
+124,18,3,56.266,56.563,began,"When they began seeing each other, Michael was still married."
+125,18,4,56.563,56.902,seeing,"When they began seeing each other, Michael was still married."
+126,18,5,56.902,57.155,each,"When they began seeing each other, Michael was still married."
+127,18,6,57.155,57.993,other,"When they began seeing each other, Michael was still married."
+128,18,7,57.993,58.372,Michael,"When they began seeing each other, Michael was still married."
+129,18,8,58.372,58.577,was,"When they began seeing each other, Michael was still married."
+130,18,9,58.577,59.278,still,"When they began seeing each other, Michael was still married."
+131,18,10,59.278,59.657,married,"When they began seeing each other, Michael was still married."
+132,19,1,60.306,60.483,He,He eventually divorced.
+133,19,2,60.483,61.046,eventually,He eventually divorced.
+134,19,3,61.046,61.526,divorced,He eventually divorced.
+135,20,1,62.187,62.407,And,And just days after that divorce became final...
+136,20,2,62.407,62.677,just,And just days after that divorce became final...
+137,20,3,62.677,62.947,days,And just days after that divorce became final...
+138,20,4,62.947,63.264,after,And just days after that divorce became final...
+139,20,5,63.264,63.535,that,And just days after that divorce became final...
+140,20,6,63.535,63.939,divorce,And just days after that divorce became final...
+141,20,7,63.939,64.301,became,And just days after that divorce became final...
+142,20,8,64.301,64.618,final,And just days after that divorce became final...
+143,21,1,65.313,65.488,he,he married Dalia.
+144,21,2,65.488,65.918,married,he married Dalia.
+145,21,3,65.918,66.255,Dalia,he married Dalia.
+146,22,1,67.313,67.537,But,But Michael also came into the relationship with baggage.
+147,22,2,67.537,67.949,Michael,But Michael also came into the relationship with baggage.
+148,22,3,67.949,68.224,also,But Michael also came into the relationship with baggage.
+149,22,4,68.224,68.499,came,But Michael also came into the relationship with baggage.
+150,22,5,68.499,68.774,into,But Michael also came into the relationship with baggage.
+151,22,6,68.774,68.998,the,But Michael also came into the relationship with baggage.
+152,22,7,68.998,69.605,relationship,But Michael also came into the relationship with baggage.
+153,22,8,69.605,69.88,with,But Michael also came into the relationship with baggage.
+154,22,9,69.88,70.292,baggage,But Michael also came into the relationship with baggage.
+155,23,1,71.281,71.469,He,He had previously served prison time for fraud...
+156,23,2,71.469,71.72,had,He had previously served prison time for fraud...
+157,23,3,71.72,72.318,previously,He had previously served prison time for fraud...
+158,23,4,72.318,72.732,served,He had previously served prison time for fraud...
+159,23,5,72.732,73.146,prison,He had previously served prison time for fraud...
+160,23,6,73.146,73.455,time,He had previously served prison time for fraud...
+161,23,7,73.455,73.706,for,He had previously served prison time for fraud...
+162,23,8,73.706,74.069,fraud,He had previously served prison time for fraud...
+163,24,1,74.789,75.008,and,and was still on probation.
+164,24,2,75.008,75.226,was,and was still on probation.
+165,24,3,75.226,75.542,still,and was still on probation.
+166,24,4,75.542,75.705,on,and was still on probation.
+167,24,5,75.705,76.187,probation,and was still on probation.
+168,25,1,77.191,77.402,The,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+169,25,2,77.402,77.612,two,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+170,25,3,77.612,77.916,would,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+171,25,4,77.916,78.22,later,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+172,25,5,78.22,78.608,dispute,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+173,25,6,78.608,78.995,exactly,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+174,25,7,78.995,79.206,how,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+175,25,8,79.206,79.464,much,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+176,25,9,79.464,79.768,Dalia,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+177,25,10,79.768,80.027,knew,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+178,25,11,80.027,80.331,about,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+179,25,12,80.331,80.542,his,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+180,25,13,80.542,80.968,criminal,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+181,25,14,80.968,81.356,history,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+182,25,15,81.356,81.614,when,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+183,25,16,81.614,82.349,they,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+184,25,17,82.349,82.56,got,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+185,25,18,82.56,82.986,together,The two would later dispute exactly how much Dalia knew about his criminal history when they got together.
+186,26,1,84.001,84.21,But,But only about six months into their marriage...
+187,26,2,84.21,84.467,only,But only about six months into their marriage...
+188,26,3,84.467,84.769,about,But only about six months into their marriage...
+189,26,4,84.769,84.978,six,But only about six months into their marriage...
+190,26,5,84.978,85.322,months,But only about six months into their marriage...
+191,26,6,85.322,85.579,into,But only about six months into their marriage...
+192,26,7,85.579,85.881,their,But only about six months into their marriage...
+193,26,8,85.881,86.304,marriage,But only about six months into their marriage...
+194,27,1,87.144,87.55,police,police received a call that turned their relationship into a criminal investigation.
+195,27,2,87.55,88.049,received,police received a call that turned their relationship into a criminal investigation.
+196,27,3,88.049,88.161,a,police received a call that turned their relationship into a criminal investigation.
+197,27,4,88.161,88.463,call,police received a call that turned their relationship into a criminal investigation.
+198,27,5,88.463,88.766,that,police received a call that turned their relationship into a criminal investigation.
+199,27,6,88.766,89.172,turned,police received a call that turned their relationship into a criminal investigation.
+200,27,7,89.172,89.528,their,police received a call that turned their relationship into a criminal investigation.
+201,27,8,89.528,90.77,relationship,police received a call that turned their relationship into a criminal investigation.
+202,27,9,90.77,91.073,into,police received a call that turned their relationship into a criminal investigation.
+203,27,10,91.073,91.184,a,police received a call that turned their relationship into a criminal investigation.
+204,27,11,91.184,91.683,criminal,police received a call that turned their relationship into a criminal investigation.
+205,27,12,91.683,92.391,investigation,police received a call that turned their relationship into a criminal investigation.
+206,28,1,93.345,93.563,The,The person who went to police was Mohamed Shihadeh.
+207,28,2,93.563,93.921,person,The person who went to police was Mohamed Shihadeh.
+208,28,3,93.921,94.139,who,The person who went to police was Mohamed Shihadeh.
+209,28,4,94.139,94.407,went,The person who went to police was Mohamed Shihadeh.
+210,28,5,94.407,94.57,to,The person who went to police was Mohamed Shihadeh.
+211,28,6,94.57,95.551,police,The person who went to police was Mohamed Shihadeh.
+212,28,7,95.551,95.769,was,The person who went to police was Mohamed Shihadeh.
+213,28,8,95.769,96.17,Mohamed,The person who went to police was Mohamed Shihadeh.
+214,28,9,96.17,96.611,Shihadeh,The person who went to police was Mohamed Shihadeh.
+215,29,1,97.684,98.048,Court,Court records described him as Dalia's lover.
+216,29,2,98.048,98.511,records,Court records described him as Dalia's lover.
+217,29,3,98.511,99.067,described,Court records described him as Dalia's lover.
+218,29,4,99.067,99.318,him,Court records described him as Dalia's lover.
+219,29,5,99.318,99.506,as,Court records described him as Dalia's lover.
+220,29,6,99.506,99.921,Dalia's,Court records described him as Dalia's lover.
+221,29,7,99.921,100.285,lover,Court records described him as Dalia's lover.
+222,30,1,101.119,101.324,And,And according to Mohamed...
+223,30,2,101.324,101.776,according,And according to Mohamed...
+224,30,3,101.776,101.929,to,And according to Mohamed...
+225,30,4,101.929,102.306,Mohamed,And according to Mohamed...
+226,31,1,103.566,103.849,Dalia,Dalia was trying to have Michael killed.
+227,31,2,103.849,104.045,was,Dalia was trying to have Michael killed.
+228,31,3,104.045,104.368,trying,Dalia was trying to have Michael killed.
+229,31,4,104.368,104.514,to,Dalia was trying to have Michael killed.
+230,31,5,104.514,104.755,have,Dalia was trying to have Michael killed.
+231,31,6,104.755,105.116,Michael,Dalia was trying to have Michael killed.
+232,31,7,105.116,105.439,killed,Dalia was trying to have Michael killed.
+233,32,1,106.456,106.825,That's,That's obviously an enormous accusation.
+234,32,2,106.825,107.387,obviously,That's obviously an enormous accusation.
+235,32,3,107.387,107.577,an,That's obviously an enormous accusation.
+236,32,4,107.577,108.093,enormous,That's obviously an enormous accusation.
+237,32,5,108.093,108.7,accusation,That's obviously an enormous accusation.
+238,33,1,109.449,109.616,So,So police didn't simply take his word for it.
+239,33,2,109.616,109.984,police,So police didn't simply take his word for it.
+240,33,3,109.984,110.307,didn't,So police didn't simply take his word for it.
+241,33,4,110.307,110.675,simply,So police didn't simply take his word for it.
+242,33,5,110.675,110.95,take,So police didn't simply take his word for it.
+243,33,6,110.95,111.174,his,So police didn't simply take his word for it.
+244,33,7,111.174,111.449,word,So police didn't simply take his word for it.
+245,33,8,111.449,111.672,for,So police didn't simply take his word for it.
+246,33,9,111.672,111.839,it,So police didn't simply take his word for it.
+247,34,1,112.534,112.98,Mohamed,Mohamed began working as a confidential informant.
+248,34,2,112.98,113.33,began,Mohamed began working as a confidential informant.
+249,34,3,113.33,113.776,working,Mohamed began working as a confidential informant.
+250,34,4,113.776,113.956,as,Mohamed began working as a confidential informant.
+251,34,5,113.956,114.066,a,Mohamed began working as a confidential informant.
+252,34,6,114.066,114.723,confidential,Mohamed began working as a confidential informant.
+253,34,7,114.723,115.258,informant,Mohamed began working as a confidential informant.
+254,35,1,115.633,115.872,And,And police started recording his conversations with Dalia.
+255,35,2,115.872,116.266,police,And police started recording his conversations with Dalia.
+256,35,3,116.266,116.706,started,And police started recording his conversations with Dalia.
+257,35,4,116.706,117.233,recording,And police started recording his conversations with Dalia.
+258,35,5,117.233,117.472,his,And police started recording his conversations with Dalia.
+259,35,6,117.472,118.159,conversations,And police started recording his conversations with Dalia.
+260,35,7,118.159,118.452,with,And police started recording his conversations with Dalia.
+261,35,8,118.452,118.798,Dalia,And police started recording his conversations with Dalia.
+262,36,1,119.565,120.047,According,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+263,36,2,120.047,120.21,to,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+264,36,3,120.21,120.768,prosecutors,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+265,36,4,120.768,121.493,these,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+266,36,5,121.493,121.853,weren't,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+267,36,6,121.853,122.169,vague,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+268,36,7,122.169,122.797,conversations,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+269,36,8,122.797,123.113,about,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+270,36,9,123.113,123.515,wishing,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+271,36,10,123.515,123.918,Michael,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+272,36,11,123.918,124.234,would,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+273,36,12,124.234,124.716,disappear,"According to prosecutors, these weren't vague conversations about wishing Michael would disappear."
+274,37,1,125.51,125.764,They,They were discussing finding someone...
+275,37,2,125.764,126.017,were,They were discussing finding someone...
+276,37,3,126.017,126.508,discussing,They were discussing finding someone...
+277,37,4,126.508,126.887,finding,They were discussing finding someone...
+278,37,5,126.887,127.267,someone,They were discussing finding someone...
+279,38,1,127.93,128.172,who,who could actually kill him.
+280,38,2,128.172,128.523,could,who could actually kill him.
+281,38,3,128.523,129.014,actually,who could actually kill him.
+282,38,4,129.014,129.312,kill,who could actually kill him.
+283,38,5,129.312,129.555,him,who could actually kill him.
+284,39,1,130.405,130.619,And,"And by this point, police had more than just Mohamed's story."
+285,39,2,130.619,130.779,by,"And by this point, police had more than just Mohamed's story."
+286,39,3,130.779,131.041,this,"And by this point, police had more than just Mohamed's story."
+287,39,4,131.041,131.823,point,"And by this point, police had more than just Mohamed's story."
+288,39,5,131.823,132.175,police,"And by this point, police had more than just Mohamed's story."
+289,39,6,132.175,132.388,had,"And by this point, police had more than just Mohamed's story."
+290,39,7,132.388,132.651,more,"And by this point, police had more than just Mohamed's story."
+291,39,8,132.651,132.914,than,"And by this point, police had more than just Mohamed's story."
+292,39,9,132.914,133.177,just,"And by this point, police had more than just Mohamed's story."
+293,39,10,133.177,133.61,Mohamed's,"And by this point, police had more than just Mohamed's story."
+294,39,11,133.61,133.919,story,"And by this point, police had more than just Mohamed's story."
+295,40,1,134.69,135.007,They,They had recorded conversations.
+296,40,2,135.007,135.264,had,They had recorded conversations.
+297,40,3,135.264,135.786,recorded,They had recorded conversations.
+298,40,4,135.786,136.527,conversations,They had recorded conversations.
+299,41,1,137.142,137.364,And,And they had a twelve-hundred-dollar payment...
+300,41,2,137.364,137.638,they,And they had a twelve-hundred-dollar payment...
+301,41,3,137.638,137.86,had,And they had a twelve-hundred-dollar payment...
+302,41,4,137.86,137.961,a,And they had a twelve-hundred-dollar payment...
+303,41,5,137.961,138.327,twelve,And they had a twelve-hundred-dollar payment...
+304,41,6,138.327,138.736,hundred,And they had a twelve-hundred-dollar payment...
+305,41,7,138.736,139.103,dollar,And they had a twelve-hundred-dollar payment...
+306,41,8,139.103,139.512,payment,And they had a twelve-hundred-dollar payment...
+307,42,1,140.16,140.5,from,from Dalia to Mohamed.
+308,42,2,140.5,140.899,Dalia,from Dalia to Mohamed.
+309,42,3,140.899,141.579,to,from Dalia to Mohamed.
+310,42,4,141.579,142.088,Mohamed,from Dalia to Mohamed.
+311,43,1,142.984,143.212,But,But investigators wanted to know what Dalia would do when she was put face-to-face...
+312,43,2,143.212,143.864,investigators,But investigators wanted to know what Dalia would do when she was put face-to-face...
+313,43,3,143.864,144.238,wanted,But investigators wanted to know what Dalia would do when she was put face-to-face...
+314,43,4,144.238,144.408,to,But investigators wanted to know what Dalia would do when she was put face-to-face...
+315,43,5,144.408,144.687,know,But investigators wanted to know what Dalia would do when she was put face-to-face...
+316,43,6,144.687,144.967,what,But investigators wanted to know what Dalia would do when she was put face-to-face...
+317,43,7,144.967,145.295,Dalia,But investigators wanted to know what Dalia would do when she was put face-to-face...
+318,43,8,145.295,145.623,would,But investigators wanted to know what Dalia would do when she was put face-to-face...
+319,43,9,145.623,145.793,do,But investigators wanted to know what Dalia would do when she was put face-to-face...
+320,43,10,145.793,146.072,when,But investigators wanted to know what Dalia would do when she was put face-to-face...
+321,43,11,146.072,146.299,she,But investigators wanted to know what Dalia would do when she was put face-to-face...
+322,43,12,146.299,146.526,was,But investigators wanted to know what Dalia would do when she was put face-to-face...
+323,43,13,146.526,146.754,put,But investigators wanted to know what Dalia would do when she was put face-to-face...
+324,43,14,146.754,147.033,face,But investigators wanted to know what Dalia would do when she was put face-to-face...
+325,43,15,147.033,147.203,to,But investigators wanted to know what Dalia would do when she was put face-to-face...
+326,43,16,147.203,147.482,face,But investigators wanted to know what Dalia would do when she was put face-to-face...
+327,44,1,148.145,148.41,with,with someone she believed could actually carry out the killing.
+328,44,2,148.41,148.807,someone,with someone she believed could actually carry out the killing.
+329,44,3,148.807,149.023,she,with someone she believed could actually carry out the killing.
+330,44,4,149.023,149.46,believed,with someone she believed could actually carry out the killing.
+331,44,5,149.46,149.771,could,with someone she believed could actually carry out the killing.
+332,44,6,149.771,150.208,actually,with someone she believed could actually carry out the killing.
+333,44,7,150.208,150.52,carry,with someone she believed could actually carry out the killing.
+334,44,8,150.52,150.735,out,with someone she believed could actually carry out the killing.
+335,44,9,150.735,150.951,the,with someone she believed could actually carry out the killing.
+336,44,10,150.951,151.348,killing,with someone she believed could actually carry out the killing.
+337,45,1,152.756,152.887,So,So they arranged a meeting.
+338,45,2,152.887,153.102,they,So they arranged a meeting.
+339,45,3,153.102,153.457,arranged,So they arranged a meeting.
+340,45,4,153.457,153.536,a,So they arranged a meeting.
+341,45,5,153.536,153.859,meeting,So they arranged a meeting.
+342,46,1,154.66,154.888,The,The man they sent in was Widy Jean.
+343,46,2,154.888,155.116,man,The man they sent in was Widy Jean.
+344,46,3,155.116,155.397,they,The man they sent in was Widy Jean.
+345,46,4,155.397,155.677,sent,The man they sent in was Widy Jean.
+346,46,5,155.677,155.848,in,The man they sent in was Widy Jean.
+347,46,6,155.848,156.076,was,The man they sent in was Widy Jean.
+348,46,7,156.076,156.356,Widy,The man they sent in was Widy Jean.
+349,46,8,156.356,156.637,Jean,The man they sent in was Widy Jean.
+350,47,1,157.413,157.702,Jean,Jean was a Boynton Beach police officer.
+351,47,2,157.702,157.936,was,Jean was a Boynton Beach police officer.
+352,47,3,157.936,158.042,a,Jean was a Boynton Beach police officer.
+353,47,4,158.042,158.474,Boynton,Jean was a Boynton Beach police officer.
+354,47,5,158.474,158.812,Beach,Jean was a Boynton Beach police officer.
+355,47,6,158.812,159.198,police,Jean was a Boynton Beach police officer.
+356,47,7,159.198,159.63,officer,Jean was a Boynton Beach police officer.
+357,48,1,160.084,160.284,But,But Dalia wasn't supposed to know that.
+358,48,2,160.284,160.573,Dalia,But Dalia wasn't supposed to know that.
+359,48,3,160.573,160.862,wasn't,But Dalia wasn't supposed to know that.
+360,48,4,160.862,161.267,supposed,But Dalia wasn't supposed to know that.
+361,48,5,161.267,161.416,to,But Dalia wasn't supposed to know that.
+362,48,6,161.416,161.662,know,But Dalia wasn't supposed to know that.
+363,48,7,161.662,161.908,that,But Dalia wasn't supposed to know that.
+364,49,1,162.639,162.876,To,To her...
+365,49,2,162.876,163.193,her,To her...
+366,50,1,164.016,164.278,Jean,Jean was simply the man Mohamed had found to take care of Michael.
+367,50,2,164.278,164.491,was,Jean was simply the man Mohamed had found to take care of Michael.
+368,50,3,164.491,164.842,simply,Jean was simply the man Mohamed had found to take care of Michael.
+369,50,4,164.842,165.055,the,Jean was simply the man Mohamed had found to take care of Michael.
+370,50,5,165.055,165.268,man,Jean was simply the man Mohamed had found to take care of Michael.
+371,50,6,165.268,165.66,Mohamed,Jean was simply the man Mohamed had found to take care of Michael.
+372,50,7,165.66,165.872,had,Jean was simply the man Mohamed had found to take care of Michael.
+373,50,8,165.872,166.18,found,Jean was simply the man Mohamed had found to take care of Michael.
+374,50,9,166.18,166.339,to,Jean was simply the man Mohamed had found to take care of Michael.
+375,50,10,166.339,166.601,take,Jean was simply the man Mohamed had found to take care of Michael.
+376,50,11,166.601,166.863,care,Jean was simply the man Mohamed had found to take care of Michael.
+377,50,12,166.863,167.022,of,Jean was simply the man Mohamed had found to take care of Michael.
+378,50,13,167.022,167.414,Michael,Jean was simply the man Mohamed had found to take care of Michael.
+379,51,1,168.229,168.424,And,And Jean made sure there was very little ambiguity about what he was offering.
+380,51,2,168.424,168.663,Jean,And Jean made sure there was very little ambiguity about what he was offering.
+381,51,3,168.663,168.902,made,And Jean made sure there was very little ambiguity about what he was offering.
+382,51,4,168.902,169.141,sure,And Jean made sure there was very little ambiguity about what he was offering.
+383,51,5,169.141,169.422,there,And Jean made sure there was very little ambiguity about what he was offering.
+384,51,6,169.422,169.616,was,And Jean made sure there was very little ambiguity about what he was offering.
+385,51,7,169.616,169.855,very,And Jean made sure there was very little ambiguity about what he was offering.
+386,51,8,169.855,170.175,little,And Jean made sure there was very little ambiguity about what he was offering.
+387,51,9,170.175,170.604,ambiguity,And Jean made sure there was very little ambiguity about what he was offering.
+388,51,10,170.604,170.885,about,And Jean made sure there was very little ambiguity about what he was offering.
+389,51,11,170.885,171.124,what,And Jean made sure there was very little ambiguity about what he was offering.
+390,51,12,171.124,171.269,he,And Jean made sure there was very little ambiguity about what he was offering.
+391,51,13,171.269,171.463,was,And Jean made sure there was very little ambiguity about what he was offering.
+392,51,14,171.463,171.857,offering,And Jean made sure there was very little ambiguity about what he was offering.
+393,52,1,173.029,173.191,He,He discussed entering Michael's home.
+394,52,2,173.191,173.668,discussed,He discussed entering Michael's home.
+395,52,3,173.668,174.107,entering,He discussed entering Michael's home.
+396,52,4,174.107,174.545,Michael's,He discussed entering Michael's home.
+397,52,5,174.545,174.811,home,He discussed entering Michael's home.
+398,53,1,175.425,175.583,He,He discussed making the scene look like a burglary.
+399,53,2,175.583,176.05,discussed,He discussed making the scene look like a burglary.
+400,53,3,176.05,176.399,making,He discussed making the scene look like a burglary.
+401,53,4,176.399,176.611,the,He discussed making the scene look like a burglary.
+402,53,5,176.611,176.917,scene,He discussed making the scene look like a burglary.
+403,53,6,176.917,177.177,look,He discussed making the scene look like a burglary.
+404,53,7,177.177,177.438,like,He discussed making the scene look like a burglary.
+405,53,8,177.438,177.534,a,He discussed making the scene look like a burglary.
+406,53,9,177.534,177.963,burglary,He discussed making the scene look like a burglary.
+407,54,1,178.778,178.967,And,And he discussed killing Michael.
+408,54,2,178.967,179.108,he,And he discussed killing Michael.
+409,54,3,179.108,179.524,discussed,And he discussed killing Michael.
+410,54,4,179.524,179.871,killing,And he discussed killing Michael.
+411,54,5,179.871,180.218,Michael,And he discussed killing Michael.
+412,55,1,180.526,180.829,Most,Most importantly...
+413,55,2,180.829,181.458,importantly,Most importantly...
+414,56,1,182.249,182.595,Jean,Jean explicitly gave Dalia a chance to back out.
+415,56,2,182.595,183.263,explicitly,Jean explicitly gave Dalia a chance to back out.
+416,56,3,183.263,183.609,gave,Jean explicitly gave Dalia a chance to back out.
+417,56,4,183.609,184.015,Dalia,Jean explicitly gave Dalia a chance to back out.
+418,56,5,184.015,184.142,a,Jean explicitly gave Dalia a chance to back out.
+419,56,6,184.142,184.605,chance,Jean explicitly gave Dalia a chance to back out.
+420,56,7,184.605,184.815,to,Jean explicitly gave Dalia a chance to back out.
+421,56,8,184.815,185.322,back,Jean explicitly gave Dalia a chance to back out.
+422,56,9,185.322,185.603,out,Jean explicitly gave Dalia a chance to back out.
+423,57,1,186.265,186.464,The,The consequences weren't hidden from her.
+424,57,2,186.464,187.003,consequences,The consequences weren't hidden from her.
+425,57,3,187.003,187.33,weren't,The consequences weren't hidden from her.
+426,57,4,187.33,187.658,hidden,The consequences weren't hidden from her.
+427,57,5,187.658,187.902,from,The consequences weren't hidden from her.
+428,57,6,187.902,188.101,her,The consequences weren't hidden from her.
+429,58,1,188.489,188.662,He,He made the situation clear.
+430,58,2,188.662,188.947,made,He made the situation clear.
+431,58,3,188.947,189.179,the,He made the situation clear.
+432,58,4,189.179,189.691,situation,He made the situation clear.
+433,58,5,189.691,190.026,clear,He made the situation clear.
+434,59,1,190.803,191.036,And,And when he gave Dalia the opportunity to stop everything...
+435,59,2,191.036,191.322,when,And when he gave Dalia the opportunity to stop everything...
+436,59,3,191.322,191.496,he,And when he gave Dalia the opportunity to stop everything...
+437,59,4,191.496,191.782,gave,And when he gave Dalia the opportunity to stop everything...
+438,59,5,191.782,192.118,Dalia,And when he gave Dalia the opportunity to stop everything...
+439,59,6,192.118,192.351,the,And when he gave Dalia the opportunity to stop everything...
+440,59,7,192.351,192.944,opportunity,And when he gave Dalia the opportunity to stop everything...
+441,59,8,192.944,193.118,to,And when he gave Dalia the opportunity to stop everything...
+442,59,9,193.118,193.404,stop,And when he gave Dalia the opportunity to stop everything...
+443,59,10,193.404,193.958,everything,And when he gave Dalia the opportunity to stop everything...
+444,60,1,194.709,194.92,she,she made her position very clear.
+445,60,2,194.92,195.179,made,she made her position very clear.
+446,60,3,195.179,195.39,her,she made her position very clear.
+447,60,4,195.39,195.817,position,she made her position very clear.
+448,60,5,195.817,196.076,very,she made her position very clear.
+449,60,6,196.076,196.381,clear,she made her position very clear.
+450,61,1,197.035,197.21,If,If this had been a normal murder-for-hire investigation...
+451,61,2,197.21,197.498,this,If this had been a normal murder-for-hire investigation...
+452,61,3,197.498,197.732,had,If this had been a normal murder-for-hire investigation...
+453,61,4,197.732,198.02,been,If this had been a normal murder-for-hire investigation...
+454,61,5,198.02,198.127,a,If this had been a normal murder-for-hire investigation...
+455,61,6,198.127,198.513,normal,If this had been a normal murder-for-hire investigation...
+456,61,7,198.513,198.898,murder,If this had been a normal murder-for-hire investigation...
+457,61,8,198.898,199.133,for,If this had been a normal murder-for-hire investigation...
+458,61,9,199.133,199.421,hire,If this had been a normal murder-for-hire investigation...
+459,61,10,199.421,200.094,investigation,If this had been a normal murder-for-hire investigation...
+460,62,1,200.752,201.039,that,that conversation alone would already be extraordinary.
+461,62,2,201.039,201.671,conversation,that conversation alone would already be extraordinary.
+462,62,3,201.671,202.008,alone,that conversation alone would already be extraordinary.
+463,62,4,202.008,202.742,would,that conversation alone would already be extraordinary.
+464,62,5,202.742,203.171,already,that conversation alone would already be extraordinary.
+465,62,6,203.171,203.345,be,that conversation alone would already be extraordinary.
+466,62,7,203.345,204.015,extraordinary,that conversation alone would already be extraordinary.
+467,63,1,204.785,205.044,But,But then police did something unusual.
+468,63,2,205.044,205.361,then,But then police did something unusual.
+469,63,3,205.361,205.787,police,But then police did something unusual.
+470,63,4,205.787,206.045,did,But then police did something unusual.
+471,63,5,206.045,206.615,something,But then police did something unusual.
+472,63,6,206.615,207.091,unusual,But then police did something unusual.
+473,64,1,207.668,208.078,Instead,Instead of simply arresting Dalia after the meeting...
+474,64,2,208.078,208.244,of,Instead of simply arresting Dalia after the meeting...
+475,64,3,208.244,208.611,simply,Instead of simply arresting Dalia after the meeting...
+476,64,4,208.611,209.102,arresting,Instead of simply arresting Dalia after the meeting...
+477,64,5,209.102,209.424,Dalia,Instead of simply arresting Dalia after the meeting...
+478,64,6,209.424,209.745,after,Instead of simply arresting Dalia after the meeting...
+479,64,7,209.745,209.968,the,Instead of simply arresting Dalia after the meeting...
+480,64,8,209.968,210.378,meeting,Instead of simply arresting Dalia after the meeting...
+481,65,1,211.399,211.699,they,they decided to make her believe...
+482,65,2,211.699,212.147,decided,they decided to make her believe...
+483,65,3,212.147,212.329,to,they decided to make her believe...
+484,65,4,212.329,212.821,make,they decided to make her believe...
+485,65,5,212.821,213.064,her,they decided to make her believe...
+486,65,6,213.064,213.513,believe,they decided to make her believe...
+487,66,1,214.736,214.933,the,the murder had actually happened.
+488,66,2,214.933,215.258,murder,the murder had actually happened.
+489,66,3,215.258,215.456,had,the murder had actually happened.
+490,66,4,215.456,215.855,actually,the murder had actually happened.
+491,66,5,215.855,216.255,happened,the murder had actually happened.
+492,67,1,217.444,217.796,Michael,Michael was never in danger from the supposed hitman.
+493,67,2,217.796,217.987,was,Michael was never in danger from the supposed hitman.
+494,67,3,217.987,218.263,never,Michael was never in danger from the supposed hitman.
+495,67,4,218.263,218.405,in,Michael was never in danger from the supposed hitman.
+496,67,5,218.405,218.72,danger,Michael was never in danger from the supposed hitman.
+497,67,6,218.72,218.955,from,Michael was never in danger from the supposed hitman.
+498,67,7,218.955,219.146,the,Michael was never in danger from the supposed hitman.
+499,67,8,219.146,219.532,supposed,Michael was never in danger from the supposed hitman.
+500,67,9,219.532,219.847,hitman,Michael was never in danger from the supposed hitman.
+501,68,1,220.707,221.115,Police,Police knew exactly who that man was.
+502,68,2,221.115,221.42,knew,Police knew exactly who that man was.
+503,68,3,221.42,221.875,exactly,Police knew exactly who that man was.
+504,68,4,221.875,222.123,who,Police knew exactly who that man was.
+505,68,5,222.123,222.428,that,Police knew exactly who that man was.
+506,68,6,222.428,222.675,man,Police knew exactly who that man was.
+507,68,7,222.675,222.923,was,Police knew exactly who that man was.
+508,69,1,223.669,223.877,But,But they wanted to see what Dalia would do...
+509,69,2,223.877,224.132,they,But they wanted to see what Dalia would do...
+510,69,3,224.132,224.474,wanted,But they wanted to see what Dalia would do...
+511,69,4,224.474,224.629,to,But they wanted to see what Dalia would do...
+512,69,5,224.629,224.837,see,But they wanted to see what Dalia would do...
+513,69,6,224.837,225.093,what,But they wanted to see what Dalia would do...
+514,69,7,225.093,225.392,Dalia,But they wanted to see what Dalia would do...
+515,69,8,225.392,225.692,would,But they wanted to see what Dalia would do...
+516,69,9,225.692,225.848,do,But they wanted to see what Dalia would do...
+517,70,1,226.575,226.732,if,if she believed the plan had succeeded.
+518,70,2,226.732,226.941,she,if she believed the plan had succeeded.
+519,70,3,226.941,227.366,believed,if she believed the plan had succeeded.
+520,70,4,227.366,227.576,the,if she believed the plan had succeeded.
+521,70,5,227.576,227.834,plan,if she believed the plan had succeeded.
+522,70,6,227.834,228.044,had,if she believed the plan had succeeded.
+523,70,7,228.044,228.506,succeeded,if she believed the plan had succeeded.
+524,71,1,229.333,229.509,So,So officers removed Michael from the situation.
+525,71,2,229.509,229.987,officers,So officers removed Michael from the situation.
+526,71,3,229.987,230.421,removed,So officers removed Michael from the situation.
+527,71,4,230.421,230.855,Michael,So officers removed Michael from the situation.
+528,71,5,230.855,231.145,from,So officers removed Michael from the situation.
+529,71,6,231.145,231.381,the,So officers removed Michael from the situation.
+530,71,7,231.381,231.901,situation,So officers removed Michael from the situation.
+531,72,1,232.474,232.736,Then,Then they staged his home to look like an active homicide scene.
+532,72,2,232.736,232.997,they,Then they staged his home to look like an active homicide scene.
+533,72,3,232.997,233.347,staged,Then they staged his home to look like an active homicide scene.
+534,72,4,233.347,233.56,his,Then they staged his home to look like an active homicide scene.
+535,72,5,233.56,233.821,home,Then they staged his home to look like an active homicide scene.
+536,72,6,233.821,234.359,to,Then they staged his home to look like an active homicide scene.
+537,72,7,234.359,234.621,look,Then they staged his home to look like an active homicide scene.
+538,72,8,234.621,234.882,like,Then they staged his home to look like an active homicide scene.
+539,72,9,234.882,235.041,an,Then they staged his home to look like an active homicide scene.
+540,72,10,235.041,235.391,active,Then they staged his home to look like an active homicide scene.
+541,72,11,235.391,235.822,homicide,Then they staged his home to look like an active homicide scene.
+542,72,12,235.822,236.129,scene,Then they staged his home to look like an active homicide scene.
+543,73,1,236.816,237.183,Police,Police vehicles surrounded the house.
+544,73,2,237.183,237.634,vehicles,Police vehicles surrounded the house.
+545,73,3,237.634,238.164,surrounded,Police vehicles surrounded the house.
+546,73,4,238.164,238.387,the,Police vehicles surrounded the house.
+547,73,5,238.387,238.709,house,Police vehicles surrounded the house.
+548,74,1,239.178,239.508,Crime,Crime-scene tape went up.
+549,74,2,239.508,239.839,scene,Crime-scene tape went up.
+550,74,3,239.839,240.12,tape,Crime-scene tape went up.
+551,74,4,240.12,240.401,went,Crime-scene tape went up.
+552,74,5,240.401,240.572,up,Crime-scene tape went up.
+553,75,1,241.494,241.946,Officers,Officers took their positions.
+554,75,2,241.946,242.221,took,Officers took their positions.
+555,75,3,242.221,242.543,their,Officers took their positions.
+556,75,4,242.543,243.036,positions,Officers took their positions.
+557,76,1,243.582,243.77,And,And at the time...
+558,76,2,243.77,243.911,at,And at the time...
+559,76,3,243.911,244.099,the,And at the time...
+560,76,4,244.099,244.331,time,And at the time...
+561,77,1,245.285,245.57,COPS,COPS was filming with the Boynton Beach Police Department.
+562,77,2,245.57,245.802,was,COPS was filming with the Boynton Beach Police Department.
+563,77,3,245.802,246.228,filming,COPS was filming with the Boynton Beach Police Department.
+564,77,4,246.228,246.514,with,COPS was filming with the Boynton Beach Police Department.
+565,77,5,246.514,246.745,the,COPS was filming with the Boynton Beach Police Department.
+566,77,6,246.745,247.172,Boynton,COPS was filming with the Boynton Beach Police Department.
+567,77,7,247.172,247.507,Beach,COPS was filming with the Boynton Beach Police Department.
+568,77,8,247.507,247.888,Police,COPS was filming with the Boynton Beach Police Department.
+569,77,9,247.888,248.44,Department,COPS was filming with the Boynton Beach Police Department.
+570,78,1,249.213,249.617,Dalia's,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+571,78,2,249.617,250.159,attorneys,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+572,78,3,250.159,250.514,would,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+573,78,4,250.514,250.869,later,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+574,78,5,250.869,251.223,argue,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+575,78,6,251.223,251.525,that,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+576,78,7,251.525,251.771,the,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+577,78,8,251.771,252.126,show's,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+578,78,9,252.126,252.623,presence,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+579,78,10,252.623,253.208,influenced,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+580,78,11,253.208,253.453,how,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+581,78,12,253.453,253.858,police,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+582,78,13,253.858,254.31,handled,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+583,78,14,254.31,254.555,the,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+584,78,15,254.555,254.91,sting,Dalia's attorneys would later argue that the show's presence influenced how police handled the sting.
+585,79,1,255.727,256.164,Police,Police denied that.
+586,79,2,256.164,256.6,denied,Police denied that.
+587,79,3,256.6,256.927,that,Police denied that.
+588,80,1,257.965,258.22,And,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+589,80,2,258.22,258.411,in,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+590,80,3,258.411,258.725,2019,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+591,80,4,258.725,258.916,an,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+592,80,5,258.916,259.386,appeals,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+593,80,6,259.386,259.755,court,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+594,80,7,259.755,260.124,found,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+595,80,8,260.124,260.438,that,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+596,80,9,260.438,260.752,COPS,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+597,80,10,260.752,261.007,was,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+598,80,11,261.007,261.263,not,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+599,80,12,261.263,261.78,involved,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+600,80,13,261.78,261.971,in,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+601,80,14,261.971,262.226,the,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+602,80,15,262.226,262.919,surveillance,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+603,80,16,262.919,263.11,or,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+604,80,17,263.11,263.844,investigation,"And in 2019, an appeals court found that COPS was not involved in the surveillance or investigation..."
+605,81,1,264.547,264.855,until,until after Dalia had already taken the steps that completed the solicitation offense.
+606,81,2,264.855,265.163,after,until after Dalia had already taken the steps that completed the solicitation offense.
+607,81,3,265.163,265.471,Dalia,until after Dalia had already taken the steps that completed the solicitation offense.
+608,81,4,265.471,265.684,had,until after Dalia had already taken the steps that completed the solicitation offense.
+609,81,5,265.684,266.076,already,until after Dalia had already taken the steps that completed the solicitation offense.
+610,81,6,266.076,266.384,taken,until after Dalia had already taken the steps that completed the solicitation offense.
+611,81,7,266.384,266.598,the,until after Dalia had already taken the steps that completed the solicitation offense.
+612,81,8,266.598,266.906,steps,until after Dalia had already taken the steps that completed the solicitation offense.
+613,81,9,266.906,267.168,that,until after Dalia had already taken the steps that completed the solicitation offense.
+614,81,10,267.168,267.638,completed,until after Dalia had already taken the steps that completed the solicitation offense.
+615,81,11,267.638,267.851,the,until after Dalia had already taken the steps that completed the solicitation offense.
+616,81,12,267.851,268.43,solicitation,until after Dalia had already taken the steps that completed the solicitation offense.
+617,81,13,268.43,268.822,offense,until after Dalia had already taken the steps that completed the solicitation offense.
+618,82,1,269.931,270.219,When,When Dalia arrived home...
+619,82,2,270.219,270.558,Dalia,When Dalia arrived home...
+620,82,3,270.558,270.989,arrived,When Dalia arrived home...
+621,82,4,270.989,271.278,home,When Dalia arrived home...
+622,83,1,272.185,272.696,everything,everything around her suggested that something terrible had happened.
+623,83,2,272.696,273.049,around,everything around her suggested that something terrible had happened.
+624,83,3,273.049,273.264,her,everything around her suggested that something terrible had happened.
+625,83,4,273.264,273.738,suggested,everything around her suggested that something terrible had happened.
+626,83,5,273.738,274.002,that,everything around her suggested that something terrible had happened.
+627,83,6,274.002,274.475,something,everything around her suggested that something terrible had happened.
+628,83,7,274.475,274.91,terrible,everything around her suggested that something terrible had happened.
+629,83,8,274.91,275.125,had,everything around her suggested that something terrible had happened.
+630,83,9,275.125,275.56,happened,everything around her suggested that something terrible had happened.
+631,84,1,276.64,276.791,An,An officer told her Michael had been killed.
+632,84,2,276.791,277.164,officer,An officer told her Michael had been killed.
+633,84,3,277.164,277.413,told,An officer told her Michael had been killed.
+634,84,4,277.413,277.615,her,An officer told her Michael had been killed.
+635,84,5,277.615,277.987,Michael,An officer told her Michael had been killed.
+636,84,6,277.987,278.19,had,An officer told her Michael had been killed.
+637,84,7,278.19,278.438,been,An officer told her Michael had been killed.
+638,84,8,278.438,278.772,killed,An officer told her Michael had been killed.
+639,85,1,279.554,279.989,Dalia,Dalia cried.
+640,85,2,279.989,280.425,cried,Dalia cried.
+641,86,1,281.085,281.289,She,She collapsed into an officer.
+642,86,2,281.289,281.74,collapsed,She collapsed into an officer.
+643,86,3,281.74,281.992,into,She collapsed into an officer.
+644,86,4,281.992,282.145,an,She collapsed into an officer.
+645,86,5,282.145,282.521,officer,She collapsed into an officer.
+646,87,1,283.342,283.546,The,The entire scene had been designed to make her believe...
+647,87,2,283.546,283.881,entire,The entire scene had been designed to make her believe...
+648,87,3,283.881,284.175,scene,The entire scene had been designed to make her believe...
+649,87,4,284.175,284.378,had,The entire scene had been designed to make her believe...
+650,87,5,284.378,284.628,been,The entire scene had been designed to make her believe...
+651,87,6,284.628,285.041,designed,The entire scene had been designed to make her believe...
+652,87,7,285.041,285.193,to,The entire scene had been designed to make her believe...
+653,87,8,285.193,285.443,make,The entire scene had been designed to make her believe...
+654,87,9,285.443,285.646,her,The entire scene had been designed to make her believe...
+655,87,10,285.646,286.021,believe,The entire scene had been designed to make her believe...
+656,88,1,286.738,287.007,that,that the man she'd met with had done exactly what they discussed.
+657,88,2,287.007,287.225,the,that the man she'd met with had done exactly what they discussed.
+658,88,3,287.225,287.443,man,that the man she'd met with had done exactly what they discussed.
+659,88,4,287.443,287.712,she'd,that the man she'd met with had done exactly what they discussed.
+660,88,5,287.712,287.93,met,that the man she'd met with had done exactly what they discussed.
+661,88,6,287.93,288.199,with,that the man she'd met with had done exactly what they discussed.
+662,88,7,288.199,288.417,had,that the man she'd met with had done exactly what they discussed.
+663,88,8,288.417,288.686,done,that the man she'd met with had done exactly what they discussed.
+664,88,9,288.686,289.087,exactly,that the man she'd met with had done exactly what they discussed.
+665,88,10,289.087,289.356,what,that the man she'd met with had done exactly what they discussed.
+666,88,11,289.356,289.624,they,that the man she'd met with had done exactly what they discussed.
+667,88,12,289.624,290.106,discussed,that the man she'd met with had done exactly what they discussed.
+668,89,1,290.555,290.971,But,But every officer standing around her...
+669,89,2,290.971,291.328,every,But every officer standing around her...
+670,89,3,291.328,291.784,officer,But every officer standing around her...
+671,89,4,291.784,292.285,standing,But every officer standing around her...
+672,89,5,292.285,292.692,around,But every officer standing around her...
+673,89,6,292.692,292.94,her,But every officer standing around her...
+674,90,1,293.547,293.857,knew,knew Michael was alive.
+675,90,2,293.857,294.321,Michael,knew Michael was alive.
+676,90,3,294.321,294.573,was,knew Michael was alive.
+677,90,4,294.573,294.938,alive,knew Michael was alive.
+678,91,1,296.493,296.68,And,And police still weren't finished.
+679,91,2,296.68,296.986,police,And police still weren't finished.
+680,91,3,296.986,297.256,still,And police still weren't finished.
+681,91,4,297.256,297.562,weren't,And police still weren't finished.
+682,91,5,297.562,297.94,finished,And police still weren't finished.
+683,92,1,298.532,298.745,They,They asked Dalia to come down to the station.
+684,92,2,298.745,298.996,asked,They asked Dalia to come down to the station.
+685,92,3,298.996,299.246,Dalia,They asked Dalia to come down to the station.
+686,92,4,299.246,299.376,to,They asked Dalia to come down to the station.
+687,92,5,299.376,299.589,come,They asked Dalia to come down to the station.
+688,92,6,299.589,299.802,down,They asked Dalia to come down to the station.
+689,92,7,299.802,299.931,to,They asked Dalia to come down to the station.
+690,92,8,299.931,300.105,the,They asked Dalia to come down to the station.
+691,92,9,300.105,300.424,station,They asked Dalia to come down to the station.
+692,93,1,301.248,301.388,By,By the time she entered the interview room...
+693,93,2,301.388,301.576,the,By the time she entered the interview room...
+694,93,3,301.576,301.808,time,By the time she entered the interview room...
+695,93,4,301.808,301.996,she,By the time she entered the interview room...
+696,93,5,301.996,302.342,entered,By the time she entered the interview room...
+697,93,6,302.342,302.53,the,By the time she entered the interview room...
+698,93,7,302.53,302.945,interview,By the time she entered the interview room...
+699,93,8,302.945,303.176,room,By the time she entered the interview room...
+700,94,1,303.961,304.79,investigators,investigators already knew an enormous amount.
+701,94,2,304.79,305.32,already,investigators already knew an enormous amount.
+702,94,3,305.32,305.674,knew,investigators already knew an enormous amount.
+703,94,4,305.674,305.89,an,investigators already knew an enormous amount.
+704,94,5,305.89,306.473,enormous,investigators already knew an enormous amount.
+705,94,6,306.473,306.948,amount,investigators already knew an enormous amount.
+706,95,1,307.693,307.955,They,They had Mohamed's information.
+707,95,2,307.955,308.169,had,They had Mohamed's information.
+708,95,3,308.169,308.601,Mohamed's,They had Mohamed's information.
+709,95,4,308.601,309.145,information,They had Mohamed's information.
+710,96,1,309.829,310.098,They,They had the recorded conversations.
+711,96,2,310.098,310.317,had,They had the recorded conversations.
+712,96,3,310.317,310.536,the,They had the recorded conversations.
+713,96,4,310.536,310.978,recorded,They had the recorded conversations.
+714,96,5,310.978,311.607,conversations,They had the recorded conversations.
+715,97,1,312.17,312.366,They,They had the undercover meeting.
+716,97,2,312.366,312.526,had,They had the undercover meeting.
+717,97,3,312.526,312.686,the,They had the undercover meeting.
+718,97,4,312.686,313.066,undercover,They had the undercover meeting.
+719,97,5,313.066,313.36,meeting,They had the undercover meeting.
+720,98,1,314.224,314.491,They,They knew exactly what Dalia had been told.
+721,98,2,314.491,314.758,knew,They knew exactly what Dalia had been told.
+722,98,3,314.758,315.158,exactly,They knew exactly what Dalia had been told.
+723,98,4,315.158,315.425,what,They knew exactly what Dalia had been told.
+724,98,5,315.425,315.739,Dalia,They knew exactly what Dalia had been told.
+725,98,6,315.739,315.956,had,They knew exactly what Dalia had been told.
+726,98,7,315.956,316.223,been,They knew exactly what Dalia had been told.
+727,98,8,316.223,316.491,told,They knew exactly what Dalia had been told.
+728,99,1,317.213,317.448,What,What they didn't have...
+729,99,2,317.448,317.683,they,What they didn't have...
+730,99,3,317.683,317.959,didn't,What they didn't have...
+731,99,4,317.959,318.194,have,What they didn't have...
+732,100,1,318.962,319.206,was,was her explanation.
+733,100,2,319.206,319.45,her,was her explanation.
+734,100,3,319.45,320.072,explanation,was her explanation.
+735,101,1,321.22,321.431,So,So detectives began asking questions.
+736,101,2,321.431,322.104,detectives,So detectives began asking questions.
+737,101,3,322.104,322.512,began,So detectives began asking questions.
+738,101,4,322.512,322.978,asking,So detectives began asking questions.
+739,101,5,322.978,323.602,questions,So detectives began asking questions.
+740,102,1,324.276,324.508,And,And Dalia continued denying that she had arranged Michael's death.
+741,102,2,324.508,324.844,Dalia,And Dalia continued denying that she had arranged Michael's death.
+742,102,3,324.844,325.356,continued,And Dalia continued denying that she had arranged Michael's death.
+743,102,4,325.356,325.784,denying,And Dalia continued denying that she had arranged Michael's death.
+744,102,5,325.784,326.07,that,And Dalia continued denying that she had arranged Michael's death.
+745,102,6,326.07,326.302,she,And Dalia continued denying that she had arranged Michael's death.
+746,102,7,326.302,326.534,had,And Dalia continued denying that she had arranged Michael's death.
+747,102,8,326.534,327.005,arranged,And Dalia continued denying that she had arranged Michael's death.
+748,102,9,327.005,327.475,Michael's,And Dalia continued denying that she had arranged Michael's death.
+749,102,10,327.475,327.811,death,And Dalia continued denying that she had arranged Michael's death.
+750,103,1,328.521,328.745,For,For a while...
+751,103,2,328.745,328.847,a,For a while...
+752,103,3,328.847,329.171,while,For a while...
+753,104,1,330.058,330.729,investigators,investigators let her tell her version of events.
+754,104,2,330.729,330.962,let,investigators let her tell her version of events.
+755,104,3,330.962,331.195,her,investigators let her tell her version of events.
+756,104,4,331.195,331.482,tell,investigators let her tell her version of events.
+757,104,5,331.482,331.715,her,investigators let her tell her version of events.
+758,104,6,331.715,332.145,version,investigators let her tell her version of events.
+759,104,7,332.145,332.319,of,investigators let her tell her version of events.
+760,104,8,332.319,332.703,events,investigators let her tell her version of events.
+761,105,1,333.577,333.829,Then,Then they started challenging it.
+762,105,2,333.829,334.081,they,Then they started challenging it.
+763,105,3,334.081,334.457,started,Then they started challenging it.
+764,105,4,334.457,334.979,challenging,Then they started challenging it.
+765,105,5,334.979,335.132,it,Then they started challenging it.
+766,106,1,335.613,335.828,And,And eventually...
+767,106,2,335.828,336.339,eventually,And eventually...
+768,107,1,337.385,338.041,detectives,detectives decided to remove any remaining ambiguity.
+769,107,2,338.041,338.549,decided,detectives decided to remove any remaining ambiguity.
+770,107,3,338.549,338.755,to,detectives decided to remove any remaining ambiguity.
+771,107,4,338.755,339.209,remove,detectives decided to remove any remaining ambiguity.
+772,107,5,339.209,339.484,any,detectives decided to remove any remaining ambiguity.
+773,107,6,339.484,340.093,remaining,detectives decided to remove any remaining ambiguity.
+774,107,7,340.093,340.701,ambiguity,detectives decided to remove any remaining ambiguity.
+775,108,1,341.426,341.617,They,They brought someone into the room.
+776,108,2,341.617,341.904,brought,They brought someone into the room.
+777,108,3,341.904,342.19,someone,They brought someone into the room.
+778,108,4,342.19,342.382,into,They brought someone into the room.
+779,108,5,342.382,342.538,the,They brought someone into the room.
+780,108,6,342.538,342.729,room,They brought someone into the room.
+781,109,1,343.422,343.928,Someone,Someone Dalia supposedly...
+782,109,2,343.928,344.324,Dalia,Someone Dalia supposedly...
+783,109,3,344.324,344.978,supposedly,Someone Dalia supposedly...
+784,110,1,345.558,345.731,had,had never met before.
+785,110,2,345.731,345.981,never,had never met before.
+786,110,3,345.981,346.154,met,had never met before.
+787,110,4,346.154,346.44,before,had never met before.
+788,111,1,347.515,347.702,It,It was Widy Jean.
+789,111,2,347.702,347.953,was,It was Widy Jean.
+790,111,3,347.953,348.262,Widy,It was Widy Jean.
+791,111,4,348.262,348.571,Jean,It was Widy Jean.
+792,112,1,349.343,349.562,The,The man she believed was a hitman.
+793,112,2,349.562,349.781,man,The man she believed was a hitman.
+794,112,3,349.781,350.0,she,The man she believed was a hitman.
+795,112,4,350.0,350.443,believed,The man she believed was a hitman.
+796,112,5,350.443,351.169,was,The man she believed was a hitman.
+797,112,6,351.169,351.268,a,The man she believed was a hitman.
+798,112,7,351.268,351.629,hitman,The man she believed was a hitman.
+799,113,1,352.596,352.89,When,When investigators asked Dalia if she knew him...
+800,113,2,352.89,353.576,investigators,When investigators asked Dalia if she knew him...
+801,113,3,353.576,353.92,asked,When investigators asked Dalia if she knew him...
+802,113,4,353.92,354.265,Dalia,When investigators asked Dalia if she knew him...
+803,113,5,354.265,354.443,if,When investigators asked Dalia if she knew him...
+804,113,6,354.443,354.682,she,When investigators asked Dalia if she knew him...
+805,113,7,354.682,354.975,knew,When investigators asked Dalia if she knew him...
+806,113,8,354.975,355.214,him,When investigators asked Dalia if she knew him...
+807,114,1,355.801,356.017,she,she denied it.
+808,114,2,356.017,356.373,denied,she denied it.
+809,114,3,356.373,356.534,it,she denied it.
+810,115,1,357.115,357.364,And,And that's when the entire situation collapsed.
+811,115,2,357.364,357.723,that's,And that's when the entire situation collapsed.
+812,115,3,357.723,358.029,when,And that's when the entire situation collapsed.
+813,115,4,358.029,358.277,the,And that's when the entire situation collapsed.
+814,115,5,358.277,358.687,entire,And that's when the entire situation collapsed.
+815,115,6,358.687,359.235,situation,And that's when the entire situation collapsed.
+816,115,7,359.235,359.783,collapsed,And that's when the entire situation collapsed.
+817,116,1,360.349,360.756,Michael,Michael wasn't dead.
+818,116,2,360.756,361.076,wasn't,Michael wasn't dead.
+819,116,3,361.076,361.348,dead,Michael wasn't dead.
+820,117,1,362.07,362.355,The,The hitman...
+821,117,2,362.355,362.823,hitman,The hitman...
+822,118,1,363.385,363.72,wasn't,wasn't a hitman.
+823,118,2,363.72,363.826,a,wasn't a hitman.
+824,118,3,363.826,364.208,hitman,wasn't a hitman.
+825,119,1,364.911,365.155,And,And the conversations Dalia had spent days having privately...
+826,119,2,365.155,365.398,the,And the conversations Dalia had spent days having privately...
+827,119,3,365.398,366.099,conversations,And the conversations Dalia had spent days having privately...
+828,119,4,366.099,366.451,Dalia,And the conversations Dalia had spent days having privately...
+829,119,5,366.451,366.694,had,And the conversations Dalia had spent days having privately...
+830,119,6,366.694,367.046,spent,And the conversations Dalia had spent days having privately...
+831,119,7,367.046,367.346,days,And the conversations Dalia had spent days having privately...
+832,119,8,367.346,367.747,having,And the conversations Dalia had spent days having privately...
+833,119,9,367.747,368.285,privately,And the conversations Dalia had spent days having privately...
+834,120,1,369.072,369.268,had,had been recorded.
+835,120,2,369.268,369.509,been,had been recorded.
+836,120,3,369.509,369.906,recorded,had been recorded.
+837,121,1,371.089,371.348,Even,"Even after the arrest, though..."
+838,121,2,371.348,371.653,after,"Even after the arrest, though..."
+839,121,3,371.653,371.864,the,"Even after the arrest, though..."
+840,121,4,371.864,372.211,arrest,"Even after the arrest, though..."
+841,121,5,372.211,372.559,though,"Even after the arrest, though..."
+842,122,1,373.641,373.899,the,the story somehow got stranger.
+843,122,2,373.899,374.271,story,the story somehow got stranger.
+844,122,3,374.271,374.745,somehow,the story somehow got stranger.
+845,122,4,374.745,375.002,got,the story somehow got stranger.
+846,122,5,375.002,375.524,stranger,the story somehow got stranger.
+847,123,1,376.283,376.53,From,"From jail, Dalia called the man police said she'd just tried to have killed."
+848,123,2,376.53,376.777,jail,"From jail, Dalia called the man police said she'd just tried to have killed."
+849,123,3,376.777,377.298,Dalia,"From jail, Dalia called the man police said she'd just tried to have killed."
+850,123,4,377.298,377.629,called,"From jail, Dalia called the man police said she'd just tried to have killed."
+851,123,5,377.629,377.83,the,"From jail, Dalia called the man police said she'd just tried to have killed."
+852,123,6,377.83,378.031,man,"From jail, Dalia called the man police said she'd just tried to have killed."
+853,123,7,378.031,378.521,police,"From jail, Dalia called the man police said she'd just tried to have killed."
+854,123,8,378.521,378.768,said,"From jail, Dalia called the man police said she'd just tried to have killed."
+855,123,9,378.768,379.016,she'd,"From jail, Dalia called the man police said she'd just tried to have killed."
+856,123,10,379.016,379.263,just,"From jail, Dalia called the man police said she'd just tried to have killed."
+857,123,11,379.263,379.553,tried,"From jail, Dalia called the man police said she'd just tried to have killed."
+858,123,12,379.553,379.703,to,"From jail, Dalia called the man police said she'd just tried to have killed."
+859,123,13,379.703,380.105,have,"From jail, Dalia called the man police said she'd just tried to have killed."
+860,123,14,380.105,380.436,killed,"From jail, Dalia called the man police said she'd just tried to have killed."
+861,124,1,381.97,382.321,Michael,Michael had now heard the recordings.
+862,124,2,382.321,382.511,had,Michael had now heard the recordings.
+863,124,3,382.511,382.702,now,Michael had now heard the recordings.
+864,124,4,382.702,382.977,heard,Michael had now heard the recordings.
+865,124,5,382.977,383.168,the,Michael had now heard the recordings.
+866,124,6,383.168,383.621,recordings,Michael had now heard the recordings.
+867,125,1,384.29,384.42,He,He had heard her voice.
+868,125,2,384.42,384.593,had,He had heard her voice.
+869,125,3,384.593,384.844,heard,He had heard her voice.
+870,125,4,384.844,385.017,her,He had heard her voice.
+871,125,5,385.017,385.268,voice,He had heard her voice.
+872,126,1,385.842,385.99,He,He knew exactly what investigators were accusing her of arranging.
+873,126,2,385.99,386.235,knew,He knew exactly what investigators were accusing her of arranging.
+874,126,3,386.235,386.6,exactly,He knew exactly what investigators were accusing her of arranging.
+875,126,4,386.6,386.845,what,He knew exactly what investigators were accusing her of arranging.
+876,126,5,386.845,387.416,investigators,He knew exactly what investigators were accusing her of arranging.
+877,126,6,387.416,387.66,were,He knew exactly what investigators were accusing her of arranging.
+878,126,7,387.66,388.063,accusing,He knew exactly what investigators were accusing her of arranging.
+879,126,8,388.063,388.261,her,He knew exactly what investigators were accusing her of arranging.
+880,126,9,388.261,388.41,of,He knew exactly what investigators were accusing her of arranging.
+881,126,10,388.41,388.848,arranging,He knew exactly what investigators were accusing her of arranging.
+882,127,1,389.806,390.01,And,And during their conversation...
+883,127,2,390.01,390.347,during,And during their conversation...
+884,127,3,390.347,390.642,their,And during their conversation...
+885,127,4,390.642,391.196,conversation,And during their conversation...
+886,128,1,391.969,392.107,he,he confronted her about it.
+887,128,2,392.107,392.544,confronted,he confronted her about it.
+888,128,3,392.544,392.727,her,he confronted her about it.
+889,128,4,392.727,392.993,about,he confronted her about it.
+890,128,5,392.993,393.13,it,he confronted her about it.
+891,129,1,394.177,394.551,Dalia,Dalia continued denying that she genuinely wanted him dead.
+892,129,2,394.551,395.122,continued,Dalia continued denying that she genuinely wanted him dead.
+893,129,3,395.122,395.598,denying,Dalia continued denying that she genuinely wanted him dead.
+894,129,4,395.598,395.916,that,Dalia continued denying that she genuinely wanted him dead.
+895,129,5,395.916,396.175,she,Dalia continued denying that she genuinely wanted him dead.
+896,129,6,396.175,396.746,genuinely,Dalia continued denying that she genuinely wanted him dead.
+897,129,7,396.746,397.172,wanted,Dalia continued denying that she genuinely wanted him dead.
+898,129,8,397.172,397.431,him,Dalia continued denying that she genuinely wanted him dead.
+899,129,9,397.431,397.75,dead,Dalia continued denying that she genuinely wanted him dead.
+900,130,1,398.333,398.466,At,At this point...
+901,130,2,398.466,398.686,this,At this point...
+902,130,3,398.686,398.944,point,At this point...
+903,131,1,399.738,399.982,the,the evidence appeared almost absurdly straightforward.
+904,131,2,399.982,400.476,evidence,the evidence appeared almost absurdly straightforward.
+905,131,3,400.476,400.97,appeared,the evidence appeared almost absurdly straightforward.
+906,131,4,400.97,401.372,almost,the evidence appeared almost absurdly straightforward.
+907,131,5,401.372,401.867,absurdly,the evidence appeared almost absurdly straightforward.
+908,131,6,401.867,402.644,straightforward,the evidence appeared almost absurdly straightforward.
+909,132,1,403.34,403.682,There,There were recorded conversations.
+910,132,2,403.682,403.973,were,There were recorded conversations.
+911,132,3,403.973,404.452,recorded,There were recorded conversations.
+912,132,4,404.452,405.132,conversations,There were recorded conversations.
+913,133,1,406.044,406.353,There,There was an undercover officer.
+914,133,2,406.353,406.566,was,There was an undercover officer.
+915,133,3,406.566,406.726,an,There was an undercover officer.
+916,133,4,406.726,407.234,undercover,There was an undercover officer.
+917,133,5,407.234,407.627,officer,There was an undercover officer.
+918,134,1,408.138,408.456,There,There was a staged murder scene.
+919,134,2,408.456,408.675,was,There was a staged murder scene.
+920,134,3,408.675,408.775,a,There was a staged murder scene.
+921,134,4,408.775,409.137,staged,There was a staged murder scene.
+922,134,5,409.137,409.499,murder,There was a staged murder scene.
+923,134,6,409.499,409.816,scene,There was a staged murder scene.
+924,135,1,410.47,410.751,There,There was an interrogation.
+925,135,2,410.751,410.946,was,There was an interrogation.
+926,135,3,410.946,411.091,an,There was an interrogation.
+927,135,4,411.091,411.65,interrogation,There was an interrogation.
+928,136,1,412.627,412.839,But,But what happened in court...
+929,136,2,412.839,413.1,what,But what happened in court...
+930,136,3,413.1,413.531,happened,But what happened in court...
+931,136,4,413.531,413.689,in,But what happened in court...
+932,136,5,413.689,413.996,court,But what happened in court...
+933,137,1,414.771,415.14,would,would stretch this case out for years.
+934,137,2,415.14,415.61,stretch,would stretch this case out for years.
+935,137,3,415.61,415.924,this,would stretch this case out for years.
+936,137,4,415.924,416.238,case,would stretch this case out for years.
+937,137,5,416.238,416.494,out,would stretch this case out for years.
+938,137,6,416.494,416.749,for,would stretch this case out for years.
+939,137,7,416.749,417.118,years,would stretch this case out for years.
+940,138,1,417.678,418.097,Dalia's,Dalia's defense couldn't simply pretend the recordings didn't exist.
+941,138,2,418.097,418.565,defense,Dalia's defense couldn't simply pretend the recordings didn't exist.
+942,138,3,418.565,419.033,couldn't,Dalia's defense couldn't simply pretend the recordings didn't exist.
+943,138,4,419.033,419.452,simply,Dalia's defense couldn't simply pretend the recordings didn't exist.
+944,138,5,419.452,419.92,pretend,Dalia's defense couldn't simply pretend the recordings didn't exist.
+945,138,6,419.92,420.174,the,Dalia's defense couldn't simply pretend the recordings didn't exist.
+946,138,7,420.174,420.779,recordings,Dalia's defense couldn't simply pretend the recordings didn't exist.
+947,138,8,420.779,421.147,didn't,Dalia's defense couldn't simply pretend the recordings didn't exist.
+948,138,9,421.147,421.514,exist,Dalia's defense couldn't simply pretend the recordings didn't exist.
+949,139,1,422.119,422.303,So,So the argument became...
+950,139,2,422.303,422.55,the,So the argument became...
+951,139,3,422.55,423.049,argument,So the argument became...
+952,139,4,423.049,423.455,became,So the argument became...
+953,140,1,424.572,424.899,that,that the recordings didn't mean what prosecutors said they meant.
+954,140,2,424.899,425.164,the,that the recordings didn't mean what prosecutors said they meant.
+955,140,3,425.164,425.796,recordings,that the recordings didn't mean what prosecutors said they meant.
+956,140,4,425.796,426.18,didn't,that the recordings didn't mean what prosecutors said they meant.
+957,140,5,426.18,426.507,mean,that the recordings didn't mean what prosecutors said they meant.
+958,140,6,426.507,426.833,what,that the recordings didn't mean what prosecutors said they meant.
+959,140,7,426.833,428.096,prosecutors,that the recordings didn't mean what prosecutors said they meant.
+960,140,8,428.096,428.422,said,that the recordings didn't mean what prosecutors said they meant.
+961,140,9,428.422,428.749,they,that the recordings didn't mean what prosecutors said they meant.
+962,140,10,428.749,429.133,meant,that the recordings didn't mean what prosecutors said they meant.
+963,141,1,429.51,429.809,Dalia,Dalia maintained that she never genuinely wanted Michael killed.
+964,141,2,429.809,430.302,maintained,Dalia maintained that she never genuinely wanted Michael killed.
+965,141,3,430.302,430.557,that,Dalia maintained that she never genuinely wanted Michael killed.
+966,141,4,430.557,430.764,she,Dalia maintained that she never genuinely wanted Michael killed.
+967,141,5,430.764,431.063,never,Dalia maintained that she never genuinely wanted Michael killed.
+968,141,6,431.063,431.52,genuinely,Dalia maintained that she never genuinely wanted Michael killed.
+969,141,7,431.52,431.862,wanted,Dalia maintained that she never genuinely wanted Michael killed.
+970,141,8,431.862,432.243,Michael,Dalia maintained that she never genuinely wanted Michael killed.
+971,141,9,432.243,432.584,killed,Dalia maintained that she never genuinely wanted Michael killed.
+972,142,1,433.453,433.678,Her,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+973,142,2,433.678,434.093,defense,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+974,142,3,434.093,434.464,argued,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+975,142,4,434.464,435.103,that,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+976,142,5,435.103,435.328,the,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+977,142,6,435.328,435.743,bizarre,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+978,142,7,435.743,436.39,conversations,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+979,142,8,436.39,436.668,were,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+980,142,9,436.668,437.164,connected,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+981,142,10,437.164,437.333,to,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+982,142,11,437.333,437.501,an,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+983,142,12,437.501,437.916,attempt,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+984,142,13,437.916,438.084,to,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+985,142,14,438.084,438.608,create,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+986,142,15,438.608,438.71,a,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+987,142,16,438.71,438.987,fake,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+988,142,17,438.987,439.313,video,Her defense argued that the bizarre conversations were connected to an attempt to create a fake video...
+989,143,1,440.031,440.221,or,or some kind of reality-TV opportunity.
+990,143,2,440.221,440.534,some,or some kind of reality-TV opportunity.
+991,143,3,440.534,440.846,kind,or some kind of reality-TV opportunity.
+992,143,4,440.846,441.036,of,or some kind of reality-TV opportunity.
+993,143,5,441.036,441.504,reality,or some kind of reality-TV opportunity.
+994,143,6,441.504,441.693,TV,or some kind of reality-TV opportunity.
+995,143,7,441.693,442.341,opportunity,or some kind of reality-TV opportunity.
+996,144,1,442.986,443.124,In,In other words...
+997,144,2,443.124,443.389,other,In other words...
+998,144,3,443.389,443.655,words,In other words...
+999,145,1,444.21,444.381,she,she said she was acting.
+1000,145,2,444.381,444.59,said,she said she was acting.
+1001,145,3,444.59,444.761,she,she said she was acting.
+1002,145,4,444.761,444.931,was,she said she was acting.
+1003,145,5,444.931,445.212,acting,she said she was acting.
+1004,146,1,446.633,446.869,Her,Her attorneys also attacked the way police handled the investigation.
+1005,146,2,446.869,447.389,attorneys,Her attorneys also attacked the way police handled the investigation.
+1006,146,3,447.389,447.679,also,Her attorneys also attacked the way police handled the investigation.
+1007,146,4,447.679,448.157,attacked,Her attorneys also attacked the way police handled the investigation.
+1008,146,5,448.157,448.393,the,Her attorneys also attacked the way police handled the investigation.
+1009,146,6,448.393,448.629,way,Her attorneys also attacked the way police handled the investigation.
+1010,146,7,448.629,449.017,police,Her attorneys also attacked the way police handled the investigation.
+1011,146,8,449.017,449.451,handled,Her attorneys also attacked the way police handled the investigation.
+1012,146,9,449.451,449.687,the,Her attorneys also attacked the way police handled the investigation.
+1013,146,10,449.687,450.365,investigation,Her attorneys also attacked the way police handled the investigation.
+1014,147,1,451.172,451.425,They,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1015,147,2,451.425,451.803,pointed,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1016,147,3,451.803,451.957,to,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1017,147,4,451.957,452.163,the,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1018,147,5,452.163,452.751,fact,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1019,147,6,452.751,453.003,that,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1020,147,7,453.003,453.256,COPS,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1021,147,8,453.256,453.462,was,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1022,147,9,453.462,453.84,filming,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1023,147,10,453.84,454.093,with,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1024,147,11,454.093,454.299,the,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1025,147,12,454.299,455.168,department,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1026,147,13,455.168,455.465,while,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1027,147,14,455.465,455.671,the,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1028,147,15,455.671,455.968,sting,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1029,147,16,455.968,456.173,was,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1030,147,17,456.173,456.512,taking,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1031,147,18,456.512,456.809,place,They pointed to the fact that COPS was filming with the department while the sting was taking place.
+1032,148,1,457.586,457.816,The,The defense argued that the show's presence influenced the operation.
+1033,148,2,457.816,458.24,defense,The defense argued that the show's presence influenced the operation.
+1034,148,3,458.24,458.619,argued,The defense argued that the show's presence influenced the operation.
+1035,148,4,458.619,458.903,that,The defense argued that the show's presence influenced the operation.
+1036,148,5,458.903,459.133,the,The defense argued that the show's presence influenced the operation.
+1037,148,6,459.133,459.465,show's,The defense argued that the show's presence influenced the operation.
+1038,148,7,459.465,459.932,presence,The defense argued that the show's presence influenced the operation.
+1039,148,8,459.932,460.48,influenced,The defense argued that the show's presence influenced the operation.
+1040,148,9,460.48,460.71,the,The defense argued that the show's presence influenced the operation.
+1041,148,10,460.71,461.218,operation,The defense argued that the show's presence influenced the operation.
+1042,149,1,461.995,462.449,Police,Police denied that characterization.
+1043,149,2,462.449,462.903,denied,Police denied that characterization.
+1044,149,3,462.903,463.558,that,Police denied that characterization.
+1045,149,4,463.558,464.478,characterization,Police denied that characterization.
+1046,150,1,465.185,465.43,And,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1047,150,2,465.43,465.675,the,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1048,150,3,465.675,466.215,appellate,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1049,150,4,466.215,466.568,court,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1050,150,5,466.568,466.922,later,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1051,150,6,466.922,467.418,rejected,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1052,150,7,467.418,467.663,the,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1053,150,8,467.663,468.017,claim,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1054,150,9,468.017,468.318,that,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1055,150,10,468.318,468.619,COPS',And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1056,150,11,468.619,469.243,involvement,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1057,150,12,469.243,469.739,amounted,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1058,150,13,469.739,469.922,to,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1059,150,14,469.922,470.462,objective,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1060,150,15,470.462,471.045,entrapment,And the appellate court later rejected the claim that COPS' involvement amounted to objective entrapment.
+1061,151,1,471.856,472.349,Michael,Michael also denied Dalia's version...
+1062,151,2,472.349,472.678,also,Michael also denied Dalia's version...
+1063,151,3,472.678,473.119,denied,Michael also denied Dalia's version...
+1064,151,4,473.119,473.559,Dalia's,Michael also denied Dalia's version...
+1065,151,5,473.559,474.052,version,Michael also denied Dalia's version...
+1066,152,1,475.226,475.569,that,that the supposed murder plot had been some mutually understood acting exercise.
+1067,152,2,475.569,475.848,the,that the supposed murder plot had been some mutually understood acting exercise.
+1068,152,3,475.848,476.413,supposed,that the supposed murder plot had been some mutually understood acting exercise.
+1069,152,4,476.413,476.872,murder,that the supposed murder plot had been some mutually understood acting exercise.
+1070,152,5,476.872,477.215,plot,that the supposed murder plot had been some mutually understood acting exercise.
+1071,152,6,477.215,477.494,had,that the supposed murder plot had been some mutually understood acting exercise.
+1072,152,7,477.494,477.837,been,that the supposed murder plot had been some mutually understood acting exercise.
+1073,152,8,477.837,478.332,some,that the supposed murder plot had been some mutually understood acting exercise.
+1074,152,9,478.332,478.897,mutually,that the supposed murder plot had been some mutually understood acting exercise.
+1075,152,10,478.897,479.561,understood,that the supposed murder plot had been some mutually understood acting exercise.
+1076,152,11,479.561,480.02,acting,that the supposed murder plot had been some mutually understood acting exercise.
+1077,152,12,480.02,480.585,exercise,that the supposed murder plot had been some mutually understood acting exercise.
+1078,153,1,481.061,482.167,Then,"Then, in 2011..."
+1079,153,2,482.167,482.526,in,"Then, in 2011..."
+1080,153,3,482.526,483.119,2011,"Then, in 2011..."
+1081,154,1,484.703,484.822,a,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1082,154,2,484.822,485.145,jury,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1083,154,3,485.145,485.723,convicted,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1084,154,4,485.723,486.103,Dalia,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1085,154,5,486.103,486.681,Dippolito,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1086,154,6,486.681,486.877,of,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1087,154,7,486.877,487.976,solicitation,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1088,154,8,487.976,488.172,to,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1089,154,9,488.172,488.604,commit,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1090,154,10,488.604,488.984,first,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1091,154,11,488.984,489.416,degree,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1092,154,12,489.416,489.848,murder,a jury convicted Dalia Dippolito of solicitation to commit first-degree murder.
+1093,155,1,490.682,490.88,She,She was sentenced to twenty years in prison.
+1094,155,2,490.88,491.079,was,She was sentenced to twenty years in prison.
+1095,155,3,491.079,491.516,sentenced,She was sentenced to twenty years in prison.
+1096,155,4,491.516,491.664,to,She was sentenced to twenty years in prison.
+1097,155,5,491.664,491.991,twenty,She was sentenced to twenty years in prison.
+1098,155,6,491.991,492.277,years,She was sentenced to twenty years in prison.
+1099,155,7,492.277,492.425,in,She was sentenced to twenty years in prison.
+1100,155,8,492.425,492.752,prison,She was sentenced to twenty years in prison.
+1101,156,1,493.498,493.76,For,For most cases...
+1102,156,2,493.76,494.081,most,For most cases...
+1103,156,3,494.081,494.458,cases,For most cases...
+1104,157,1,495.047,495.216,that,that would have been close to the end of the story.
+1105,157,2,495.216,495.414,would,that would have been close to the end of the story.
+1106,157,3,495.414,495.583,have,that would have been close to the end of the story.
+1107,157,4,495.583,495.752,been,that would have been close to the end of the story.
+1108,157,5,495.752,495.95,close,that would have been close to the end of the story.
+1109,157,6,495.95,496.053,to,that would have been close to the end of the story.
+1110,157,7,496.053,496.19,the,that would have been close to the end of the story.
+1111,157,8,496.19,496.327,end,that would have been close to the end of the story.
+1112,157,9,496.327,496.429,of,that would have been close to the end of the story.
+1113,157,10,496.429,496.567,the,that would have been close to the end of the story.
+1114,157,11,496.567,496.765,story,that would have been close to the end of the story.
+1115,158,1,497.365,497.599,But,But three years later...
+1116,158,2,497.599,497.938,three,But three years later...
+1117,158,3,497.938,498.277,years,But three years later...
+1118,158,4,498.277,498.616,later,But three years later...
+1119,159,1,499.49,499.653,an,an appeals court threw the conviction out.
+1120,159,2,499.653,500.053,appeals,an appeals court threw the conviction out.
+1121,159,3,500.053,500.615,court,an appeals court threw the conviction out.
+1122,159,4,500.615,500.929,threw,an appeals court threw the conviction out.
+1123,159,5,500.929,501.146,the,an appeals court threw the conviction out.
+1124,159,6,501.146,501.845,conviction,an appeals court threw the conviction out.
+1125,159,7,501.845,502.063,out,an appeals court threw the conviction out.
+1126,160,1,502.862,503.067,Not,Not because the undercover recordings had been proven fake.
+1127,160,2,503.067,503.444,because,Not because the undercover recordings had been proven fake.
+1128,160,3,503.444,503.648,the,Not because the undercover recordings had been proven fake.
+1129,160,4,503.648,504.136,undercover,Not because the undercover recordings had been proven fake.
+1130,160,5,504.136,504.623,recordings,Not because the undercover recordings had been proven fake.
+1131,160,6,504.623,504.828,had,Not because the undercover recordings had been proven fake.
+1132,160,7,504.828,505.08,been,Not because the undercover recordings had been proven fake.
+1133,160,8,505.08,505.417,proven,Not because the undercover recordings had been proven fake.
+1134,160,9,505.417,505.669,fake,Not because the undercover recordings had been proven fake.
+1135,161,1,506.464,506.682,Not,Not because the court decided Dalia was innocent.
+1136,161,2,506.682,507.084,because,Not because the court decided Dalia was innocent.
+1137,161,3,507.084,507.303,the,Not because the court decided Dalia was innocent.
+1138,161,4,507.303,507.618,court,Not because the court decided Dalia was innocent.
+1139,161,5,507.618,508.02,decided,Not because the court decided Dalia was innocent.
+1140,161,6,508.02,508.335,Dalia,Not because the court decided Dalia was innocent.
+1141,161,7,508.335,508.554,was,Not because the court decided Dalia was innocent.
+1142,161,8,508.554,508.996,innocent,Not because the court decided Dalia was innocent.
+1143,162,1,509.725,509.966,The,The conviction was reversed...
+1144,162,2,509.966,510.539,conviction,The conviction was reversed...
+1145,162,3,510.539,510.78,was,The conviction was reversed...
+1146,162,4,510.78,511.268,reversed,The conviction was reversed...
+1147,163,1,511.843,512.248,because,because of problems with jury selection.
+1148,163,2,512.248,512.413,of,because of problems with jury selection.
+1149,163,3,512.413,512.859,problems,because of problems with jury selection.
+1150,163,4,512.859,513.13,with,because of problems with jury selection.
+1151,163,5,513.13,513.4,jury,because of problems with jury selection.
+1152,163,6,513.4,513.886,selection,because of problems with jury selection.
+1153,164,1,514.529,514.782,The,The case had received enormous publicity.
+1154,164,2,514.782,515.094,case,The case had received enormous publicity.
+1155,164,3,515.094,515.347,had,The case had received enormous publicity.
+1156,164,4,515.347,515.86,received,The case had received enormous publicity.
+1157,164,5,515.86,516.373,enormous,The case had received enormous publicity.
+1158,164,6,516.373,516.932,publicity,The case had received enormous publicity.
+1159,165,1,517.57,517.806,And,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1160,165,2,517.806,518.194,during,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1161,165,3,518.194,518.484,jury,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1162,165,4,518.484,519.441,selection,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1163,165,5,519.441,520.041,prospective,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1164,165,6,520.041,520.429,jurors,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1165,165,7,520.429,520.718,were,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1166,165,8,520.718,521.152,exposed,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1167,165,9,521.152,521.328,to,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1168,165,10,521.328,521.716,highly,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1169,165,11,521.716,522.316,prejudicial,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1170,165,12,522.316,522.916,information,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1171,165,13,522.916,523.256,about,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1172,165,14,523.256,523.596,Dalia,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1173,165,15,523.596,524.588,while,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1174,165,16,524.588,525.022,sitting,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1175,165,17,525.022,525.499,together,"And during jury selection, prospective jurors were exposed to highly prejudicial information about Dalia while sitting together."
+1176,166,1,526.64,526.878,The,The appeals court concluded that the trial court hadn't adequately protected her right...
+1177,166,2,526.878,527.317,appeals,The appeals court concluded that the trial court hadn't adequately protected her right...
+1178,166,3,527.317,527.661,court,The appeals court concluded that the trial court hadn't adequately protected her right...
+1179,166,4,527.661,528.186,concluded,The appeals court concluded that the trial court hadn't adequately protected her right...
+1180,166,5,528.186,528.479,that,The appeals court concluded that the trial court hadn't adequately protected her right...
+1181,166,6,528.479,528.717,the,The appeals court concluded that the trial court hadn't adequately protected her right...
+1182,166,7,528.717,529.061,trial,The appeals court concluded that the trial court hadn't adequately protected her right...
+1183,166,8,529.061,529.405,court,The appeals court concluded that the trial court hadn't adequately protected her right...
+1184,166,9,529.405,529.914,hadn't,The appeals court concluded that the trial court hadn't adequately protected her right...
+1185,166,10,529.914,530.48,adequately,The appeals court concluded that the trial court hadn't adequately protected her right...
+1186,166,11,530.48,531.006,protected,The appeals court concluded that the trial court hadn't adequately protected her right...
+1187,166,12,531.006,531.244,her,The appeals court concluded that the trial court hadn't adequately protected her right...
+1188,166,13,531.244,531.588,right,The appeals court concluded that the trial court hadn't adequately protected her right...
+1189,167,1,532.307,532.499,to,to an impartial jury.
+1190,167,2,532.499,532.691,an,to an impartial jury.
+1191,167,3,532.691,533.259,impartial,to an impartial jury.
+1192,167,4,533.259,533.575,jury,to an impartial jury.
+1193,168,1,534.276,534.456,So,So despite the recordings...
+1194,168,2,534.456,534.898,despite,So despite the recordings...
+1195,168,3,534.898,535.139,the,So despite the recordings...
+1196,168,4,535.139,535.711,recordings,So despite the recordings...
+1197,169,1,536.416,536.844,despite,despite the sting...
+1198,169,2,536.844,537.077,the,despite the sting...
+1199,169,3,537.077,537.413,sting,despite the sting...
+1200,170,1,538.091,538.295,and,and despite the first guilty verdict...
+1201,170,2,538.295,538.67,despite,and despite the first guilty verdict...
+1202,170,3,538.67,538.874,the,and despite the first guilty verdict...
+1203,170,4,538.874,539.168,first,and despite the first guilty verdict...
+1204,170,5,539.168,539.504,guilty,and despite the first guilty verdict...
+1205,170,6,539.504,539.879,verdict,and despite the first guilty verdict...
+1206,171,1,540.569,541.27,prosecutors,prosecutors had to do it again.
+1207,171,2,541.27,541.545,had,prosecutors had to do it again.
+1208,171,3,541.545,541.75,to,prosecutors had to do it again.
+1209,171,4,541.75,541.955,do,prosecutors had to do it again.
+1210,171,5,541.955,542.317,it,prosecutors had to do it again.
+1211,171,6,542.317,542.715,again,prosecutors had to do it again.
+1212,172,1,543.799,544.023,In,"In 2016, Dalia went back before another jury."
+1213,172,2,544.023,544.393,2016,"In 2016, Dalia went back before another jury."
+1214,172,3,544.393,544.826,Dalia,"In 2016, Dalia went back before another jury."
+1215,172,4,544.826,545.195,went,"In 2016, Dalia went back before another jury."
+1216,172,5,545.195,545.564,back,"In 2016, Dalia went back before another jury."
+1217,172,6,545.564,546.059,before,"In 2016, Dalia went back before another jury."
+1218,172,7,546.059,546.611,another,"In 2016, Dalia went back before another jury."
+1219,172,8,546.611,546.98,jury,"In 2016, Dalia went back before another jury."
+1220,173,1,547.599,547.93,Again,"Again, the undercover recordings were played."
+1221,173,2,547.93,548.159,the,"Again, the undercover recordings were played."
+1222,173,3,548.159,548.704,undercover,"Again, the undercover recordings were played."
+1223,173,4,548.704,549.249,recordings,"Again, the undercover recordings were played."
+1224,173,5,549.249,549.531,were,"Again, the undercover recordings were played."
+1225,173,6,549.531,549.908,played,"Again, the undercover recordings were played."
+1226,174,1,550.6,550.942,Again,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1227,174,2,550.942,551.544,prosecutors,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1228,174,3,551.544,551.934,argued,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1229,174,4,551.934,552.225,that,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1230,174,5,552.225,552.833,they,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1231,174,6,552.833,553.222,showed,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1232,174,7,553.222,553.33,a,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1233,174,8,553.33,553.765,genuine,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1234,174,9,553.765,554.2,attempt,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1235,174,10,554.2,554.377,to,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1236,174,11,554.377,554.812,arrange,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1237,174,12,554.812,555.291,Michael's,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1238,174,13,555.291,555.681,murder,"Again, prosecutors argued that they showed a genuine attempt to arrange Michael's murder."
+1239,175,1,556.568,556.747,And,And again...
+1240,175,2,556.747,557.005,again,And again...
+1241,176,1,558.752,558.956,the,the defense insisted that the case wasn't what it appeared to be.
+1242,176,2,558.956,559.333,defense,the defense insisted that the case wasn't what it appeared to be.
+1243,176,3,559.333,559.747,insisted,the defense insisted that the case wasn't what it appeared to be.
+1244,176,4,559.747,559.999,that,the defense insisted that the case wasn't what it appeared to be.
+1245,176,5,559.999,560.203,the,the defense insisted that the case wasn't what it appeared to be.
+1246,176,6,560.203,560.455,case,the defense insisted that the case wasn't what it appeared to be.
+1247,176,7,560.455,560.75,wasn't,the defense insisted that the case wasn't what it appeared to be.
+1248,176,8,560.75,561.001,what,the defense insisted that the case wasn't what it appeared to be.
+1249,176,9,561.001,561.154,it,the defense insisted that the case wasn't what it appeared to be.
+1250,176,10,561.154,561.568,appeared,the defense insisted that the case wasn't what it appeared to be.
+1251,176,11,561.568,561.721,to,the defense insisted that the case wasn't what it appeared to be.
+1252,176,12,561.721,561.874,be,the defense insisted that the case wasn't what it appeared to be.
+1253,177,1,562.352,562.68,But,But this time...
+1254,177,2,562.68,562.881,this,But this time...
+1255,177,3,562.881,563.082,time,But this time...
+1256,178,1,564.365,564.827,nobody,nobody won.
+1257,178,2,564.827,565.108,won,nobody won.
+1258,179,1,566.297,566.53,The,The six-person jury split evenly.
+1259,179,2,566.53,566.762,six,The six-person jury split evenly.
+1260,179,3,566.762,567.145,person,The six-person jury split evenly.
+1261,179,4,567.145,567.431,jury,The six-person jury split evenly.
+1262,179,5,567.431,567.958,split,The six-person jury split evenly.
+1263,179,6,567.958,568.341,evenly,The six-person jury split evenly.
+1264,180,1,568.932,569.464,Three,Three believed Dalia was guilty.
+1265,180,2,569.464,570.209,believed,Three believed Dalia was guilty.
+1266,180,3,570.209,570.74,Dalia,Three believed Dalia was guilty.
+1267,180,4,570.74,571.108,was,Three believed Dalia was guilty.
+1268,180,5,571.108,571.714,guilty,Three believed Dalia was guilty.
+1269,181,1,572.11,572.848,Three,Three did not.
+1270,181,2,572.848,573.359,did,Three did not.
+1271,181,3,573.359,573.87,not,Three did not.
+1272,182,1,574.361,574.819,The,The judge declared a mistrial.
+1273,182,2,574.819,575.48,judge,The judge declared a mistrial.
+1274,182,3,575.48,576.406,declared,The judge declared a mistrial.
+1275,182,4,576.406,576.614,a,The judge declared a mistrial.
+1276,182,5,576.614,577.541,mistrial,The judge declared a mistrial.
+1277,183,1,578.543,578.856,Which,Which meant prosecutors were now looking at a third trial...
+1278,183,2,578.856,579.168,meant,Which meant prosecutors were now looking at a third trial...
+1279,183,3,579.168,579.718,prosecutors,Which meant prosecutors were now looking at a third trial...
+1280,183,4,579.718,579.984,were,Which meant prosecutors were now looking at a third trial...
+1281,183,5,579.984,580.2,now,Which meant prosecutors were now looking at a third trial...
+1282,183,6,580.2,580.764,looking,Which meant prosecutors were now looking at a third trial...
+1283,183,7,580.764,580.925,at,Which meant prosecutors were now looking at a third trial...
+1284,183,8,580.925,581.023,a,Which meant prosecutors were now looking at a third trial...
+1285,183,9,581.023,581.335,third,Which meant prosecutors were now looking at a third trial...
+1286,183,10,581.335,581.647,trial,Which meant prosecutors were now looking at a third trial...
+1287,184,1,582.832,582.97,over,over a case that had begun nearly eight years earlier.
+1288,184,2,582.97,583.02,a,over a case that had begun nearly eight years earlier.
+1289,184,3,583.02,583.158,case,over a case that had begun nearly eight years earlier.
+1290,184,4,583.158,583.295,that,over a case that had begun nearly eight years earlier.
+1291,184,5,583.295,583.407,had,over a case that had begun nearly eight years earlier.
+1292,184,6,583.407,583.568,begun,over a case that had begun nearly eight years earlier.
+1293,184,7,583.568,583.752,nearly,over a case that had begun nearly eight years earlier.
+1294,184,8,583.752,583.914,eight,over a case that had begun nearly eight years earlier.
+1295,184,9,583.914,584.075,years,over a case that had begun nearly eight years earlier.
+1296,184,10,584.075,584.281,earlier,over a case that had begun nearly eight years earlier.
+1297,185,1,585.394,585.893,And,And in 2017...
+1298,185,2,585.893,586.265,in,And in 2017...
+1299,185,3,586.265,586.878,2017,And in 2017...
+1300,186,1,587.44,587.738,they,they tried Dalia again.
+1301,186,2,587.738,588.24,tried,they tried Dalia again.
+1302,186,3,588.24,588.59,Dalia,they tried Dalia again.
+1303,186,4,588.59,588.94,again,they tried Dalia again.
+1304,187,1,589.931,590.401,This,This jury didn't need long.
+1305,187,2,590.401,590.87,jury,This jury didn't need long.
+1306,187,3,590.87,591.421,didn't,This jury didn't need long.
+1307,187,4,591.421,591.89,need,This jury didn't need long.
+1308,187,5,591.89,592.359,long,This jury didn't need long.
+1309,188,1,593.648,593.937,After,After roughly ninety minutes of deliberation...
+1310,188,2,593.937,594.306,roughly,After roughly ninety minutes of deliberation...
+1311,188,3,594.306,594.635,ninety,After roughly ninety minutes of deliberation...
+1312,188,4,594.635,595.003,minutes,After roughly ninety minutes of deliberation...
+1313,188,5,595.003,595.153,of,After roughly ninety minutes of deliberation...
+1314,188,6,595.153,595.696,deliberation,After roughly ninety minutes of deliberation...
+1315,189,1,596.635,597.065,Dalia,Dalia Dippolito was convicted again...
+1316,189,2,597.065,597.721,Dippolito,Dalia Dippolito was convicted again...
+1317,189,3,597.721,598.019,was,Dalia Dippolito was convicted again...
+1318,189,4,598.019,598.675,convicted,Dalia Dippolito was convicted again...
+1319,189,5,598.675,599.105,again,Dalia Dippolito was convicted again...
+1320,190,1,600.016,600.054,of,of solicitation to commit first-degree murder.
+1321,190,2,600.054,600.193,solicitation,of solicitation to commit first-degree murder.
+1322,190,3,600.193,600.231,to,of solicitation to commit first-degree murder.
+1323,190,4,600.231,600.315,commit,of solicitation to commit first-degree murder.
+1324,190,5,600.315,600.389,first,of solicitation to commit first-degree murder.
+1325,190,6,600.389,600.473,degree,of solicitation to commit first-degree murder.
+1326,190,7,600.473,600.558,murder,of solicitation to commit first-degree murder.
+1327,191,1,601.613,602.846,This,This time...
+1328,191,2,602.846,604.08,time,This time...
+1329,192,1,605.236,605.651,she,she received a sixteen-year prison sentence.
+1330,192,2,605.651,606.492,received,she received a sixteen-year prison sentence.
+1331,192,3,606.492,606.68,a,she received a sixteen-year prison sentence.
+1332,192,4,606.68,607.444,sixteen,she received a sixteen-year prison sentence.
+1333,192,5,607.444,607.955,year,she received a sixteen-year prison sentence.
+1334,192,6,607.955,608.638,prison,she received a sixteen-year prison sentence.
+1335,192,7,608.638,609.479,sentence,she received a sixteen-year prison sentence.
+1336,193,1,610.291,610.462,Florida's,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1337,193,2,610.462,610.602,Fourth,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1338,193,3,610.602,610.773,District,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1339,193,4,610.773,610.895,Court,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1340,193,5,610.895,610.958,of,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1341,193,6,610.958,611.098,Appeal,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1342,193,7,611.098,611.269,affirmed,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1343,193,8,611.269,611.353,the,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1344,193,9,611.353,611.555,conviction,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1345,193,10,611.555,611.618,in,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1346,193,11,611.618,611.722,2019,Florida's Fourth District Court of Appeal affirmed the conviction in 2019.
+1347,194,1,612.004,612.121,The,The Florida Supreme Court declined jurisdiction.
+1348,194,2,612.121,612.336,Florida,The Florida Supreme Court declined jurisdiction.
+1349,194,3,612.336,612.552,Supreme,The Florida Supreme Court declined jurisdiction.
+1350,194,4,612.552,612.721,Court,The Florida Supreme Court declined jurisdiction.
+1351,194,5,612.721,612.958,declined,The Florida Supreme Court declined jurisdiction.
+1352,194,6,612.958,613.275,jurisdiction,The Florida Supreme Court declined jurisdiction.
+1353,195,1,614.02,614.25,And,And the United States Supreme Court denied review.
+1354,195,2,614.25,614.48,the,And the United States Supreme Court denied review.
+1355,195,3,614.48,614.86,United,And the United States Supreme Court denied review.
+1356,195,4,614.86,615.239,States,And the United States Supreme Court denied review.
+1357,195,5,615.239,615.823,Supreme,And the United States Supreme Court denied review.
+1358,195,6,615.823,616.156,Court,And the United States Supreme Court denied review.
+1359,195,7,616.156,616.535,denied,And the United States Supreme Court denied review.
+1360,195,8,616.535,616.914,review,And the United States Supreme Court denied review.
+1361,196,1,617.902,618.283,Dalia,Dalia later pursued federal habeas relief.
+1362,196,2,618.283,618.664,later,Dalia later pursued federal habeas relief.
+1363,196,3,618.664,619.149,pursued,Dalia later pursued federal habeas relief.
+1364,196,4,619.149,619.635,federal,Dalia later pursued federal habeas relief.
+1365,196,5,619.635,620.069,habeas,Dalia later pursued federal habeas relief.
+1366,196,6,620.069,620.504,relief,Dalia later pursued federal habeas relief.
+1367,197,1,621.264,621.616,But,But in May of 2025...
+1368,197,2,621.616,621.879,in,But in May of 2025...
+1369,197,3,621.879,622.23,May,But in May of 2025...
+1370,197,4,622.23,622.493,of,But in May of 2025...
+1371,197,5,622.493,622.926,2025,But in May of 2025...
+1372,198,1,623.994,624.189,the,the federal district court denied her petition...
+1373,198,2,624.189,624.547,federal,the federal district court denied her petition...
+1374,198,3,624.547,624.942,district,the federal district court denied her petition...
+1375,198,4,624.942,625.223,court,the federal district court denied her petition...
+1376,198,5,625.223,625.544,denied,the federal district court denied her petition...
+1377,198,6,625.544,625.738,her,the federal district court denied her petition...
+1378,198,7,625.738,626.133,petition,the federal district court denied her petition...
+1379,199,1,626.811,627.068,and,and denied a certificate of appealability.
+1380,199,2,627.068,627.492,denied,and denied a certificate of appealability.
+1381,199,3,627.492,627.608,a,and denied a certificate of appealability.
+1382,199,4,627.608,628.264,certificate,and denied a certificate of appealability.
+1383,199,5,628.264,628.456,of,and denied a certificate of appealability.
+1384,199,6,628.456,629.195,appealability,and denied a certificate of appealability.
+1385,200,1,630.168,630.587,After,After years of trials...
+1386,200,2,630.587,631.006,years,After years of trials...
+1387,200,3,631.006,631.223,of,After years of trials...
+1388,200,4,631.223,631.701,trials,After years of trials...
+1389,201,1,632.656,633.337,appeals,appeals...
+1390,202,1,633.93,634.534,cameras,cameras...
+1391,203,1,635.405,636.146,recordings,recordings...
+1392,204,1,636.863,637.146,and,and increasingly unusual explanations...
+1393,204,2,637.146,637.913,increasingly,and increasingly unusual explanations...
+1394,204,3,637.913,638.433,unusual,and increasingly unusual explanations...
+1395,204,4,638.433,639.2,explanations,and increasingly unusual explanations...
+1396,205,1,639.914,640.111,the,the case kept coming back to the same place.
+1397,205,2,640.111,640.353,case,the case kept coming back to the same place.
+1398,205,3,640.353,640.596,kept,the case kept coming back to the same place.
+1399,205,4,640.596,640.92,coming,the case kept coming back to the same place.
+1400,205,5,640.92,641.162,back,the case kept coming back to the same place.
+1401,205,6,641.162,641.309,to,the case kept coming back to the same place.
+1402,205,7,641.309,641.506,the,the case kept coming back to the same place.
+1403,205,8,641.506,641.748,same,the case kept coming back to the same place.
+1404,205,9,641.748,642.033,place,the case kept coming back to the same place.
+1405,206,1,643.043,643.326,One,One conversation...
+1406,206,2,643.326,644.095,conversation,One conversation...
+1407,207,1,644.897,645.346,inside,inside an undercover officer's car.
+1408,207,2,645.346,645.55,an,inside an undercover officer's car.
+1409,207,3,645.55,646.199,undercover,inside an undercover officer's car.
+1410,207,4,646.199,646.751,officer's,inside an undercover officer's car.
+1411,207,5,646.751,647.024,car,inside an undercover officer's car.
+1412,208,1,647.893,648.369,Police,Police gave Dalia an opportunity to stop.
+1413,208,2,648.369,648.725,gave,Police gave Dalia an opportunity to stop.
+1414,208,3,648.725,649.142,Dalia,Police gave Dalia an opportunity to stop.
+1415,208,4,649.142,649.358,an,Police gave Dalia an opportunity to stop.
+1416,208,5,649.358,650.094,opportunity,Police gave Dalia an opportunity to stop.
+1417,208,6,650.094,650.31,to,Police gave Dalia an opportunity to stop.
+1418,208,7,650.31,650.665,stop,Police gave Dalia an opportunity to stop.
+1419,209,1,651.392,651.654,They,They made the consequences clear.
+1420,209,2,651.654,651.915,made,They made the consequences clear.
+1421,209,3,651.915,652.128,the,They made the consequences clear.
+1422,209,4,652.128,652.705,consequences,They made the consequences clear.
+1423,209,5,652.705,653.012,clear,They made the consequences clear.
+1424,210,1,653.681,653.876,And,And the man sitting beside her...
+1425,210,2,653.876,654.071,the,And the man sitting beside her...
+1426,210,3,654.071,654.266,man,And the man sitting beside her...
+1427,210,4,654.266,654.624,sitting,And the man sitting beside her...
+1428,210,5,654.624,654.945,beside,And the man sitting beside her...
+1429,210,6,654.945,655.14,her,And the man sitting beside her...
+1430,211,1,655.852,656.119,wasn't,wasn't a criminal.
+1431,211,2,656.119,656.203,a,wasn't a criminal.
+1432,211,3,656.203,656.578,criminal,wasn't a criminal.
+1433,212,1,657.306,657.446,He,He was recording everything.
+1434,212,2,657.446,657.634,was,He was recording everything.
+1435,212,3,657.634,658.049,recording,He was recording everything.
+1436,212,4,658.049,658.683,everything,He was recording everything.
