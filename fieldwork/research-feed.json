@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-10-30.3",
+  "version": "2026-10-30.4",
   "publishedOn": "2026-10-30",
   "editorialStatus": "researched-not-commercially-cleared",
   "notes": "Public agency-policy research only; not authorization for commercial footage reuse. No requester data or outcomes.",
@@ -54,6 +54,19 @@
       "access": "Email/physical signed request form; delivered Evidence.com link requires login and expires seven days after sending.",
       "recommendation": "Prepare one signed request per case for user review; add a seven-day delivery-link reminder. Do not save credentials.",
       "additionalSource": "https://sheriff.douglascountynv.gov/UserFiles/Servers/Server_16087630/File/Body-Worn%20Camera%20Request.pdf",
+      "checkedOn": "2026-10-30",
+      "specific": true
+    },
+    {
+      "id": "elsegundopolicedeptca",
+      "name": "El Segundo Police Department",
+      "state": "CA",
+      "gate": "blocked",
+      "finding": "Agency's NextRequest FAQ says body-worn and dash-camera footage generally is not disclosed through ordinary California Public Records Act requests unless otherwise required by state law; agency directs these requests to a subpoena process outside the portal.",
+      "cost": "Electronic records listed as no copying charge, but that does not imply BWC access; BWC route is not ordinary CPRA.",
+      "access": "Public reports may be requested through NextRequest. BWC/dashcam generally requires subpoena except where law mandates disclosure.",
+      "recommendation": "Block routine bulk BWC request preparation. Preserve exception for incidents statutorily required to be released, which need manual legal review; never auto-submit legal process.",
+      "additionalSource": "https://cityofelsegundocapd.nextrequest.com/faqs",
       "checkedOn": "2026-10-30",
       "specific": true
     },
