@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "version": "2026-10-30.2",
+  "publishedOn": "2026-10-30",
+  "editorialStatus": "researched-not-commercially-cleared",
+  "notes": "Public agency-policy research only. No user cases, personal details, outcomes, or credentials. Access and monetized publication remain separate questions.",
+  "records": [
+    {
+      "id": "frederickmd",
+      "name": "Frederick County Sheriff",
+      "state": "MD",
+      "gate": "unreviewed",
+      "finding": "Official BWC request instructions and a tiered video fee schedule; footage release and commercial reuse not guaranteed.",
+      "cost": "$20 under 10 min, $30 under 20 min, $40 plus $1/min beyond 20 min; possible redaction charges",
+      "additionalSource": "https://www.frederickcosheriff.com/reports-pia-crash",
+      "checkedOn": "2026-10-30",
+      "specific": true
+    },
+    {
+      "id": "stluciecountysherifffl",
+      "name": "St. Lucie County Sheriff",
+      "state": "FL",
+      "gate": "unreviewed",
+      "finding": "Official bodycam records page lists a nonrefundable deposit and hourly labor; final price and disclosure remain case specific.",
+      "cost": "$100 nonrefundable deposit plus $35/hour labor",
+      "additionalSource": "https://www.stluciesheriff.com/155/Public-Records-Request",
+      "checkedOn": "2026-10-30",
+      "specific": true
+    },
+    {
+      "id": "marionfl",
+      "name": "Marion County Sheriff",
+      "state": "FL",
+      "gate": "unreviewed",
+      "finding": "Official records information describes separate video review and redaction labor charges. Monetized reuse not cleared.",
+      "cost": "$25/hour review plus $25/hour redaction if required",
+      "additionalSource": "https://www.marionso.com/records",
+      "checkedOn": "2026-10-30",
+      "specific": true
+    },
+    {
+      "id": "portlandpolicebureauor",
+      "name": "Portland Police Bureau",
+      "state": "OR",
+      "gate": "unreviewed",
+      "finding": "BWC public-records requests may require payment and redaction; published minimum retention is not a release guarantee.",
+      "cost": "Paid, quote depends on recording and redaction",
+      "additionalSource": "https://www.portland.gov/police/community/body-worn-cameras/body-worn-camera-faq",
+      "checkedOn": "2026-10-30",
+      "specific": true
+    },
+    {
+      "id": "ohiostatehighwaypatroloh",
+      "name": "Ohio State Highway Patrol",
+      "state": "OH",
+      "gate": "review-required",
+      "finding": "Special notarized video fee exemption is limited to qualifying victims and representatives. Do not claim exemption without eligibility; manual cost review required.",
+      "cost": "Ohio law permits up to $75 per hour of video produced, maximum $750",
+      "additionalSource": "https://statepatrol.ohio.gov/services/public-records-and-reports-requests",
+      "checkedOn": "2026-10-30",
+      "specific": true
+    }
+  ]
+}
